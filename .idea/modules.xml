@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/SoccermaticsForPython-master.iml" filepath="$PROJECT_DIR$/.idea/SoccermaticsForPython-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/FootballPython.iml" filepath="$PROJECT_DIR$/.idea/FootballPython.iml" />
     </modules>
   </component>
 </project>
