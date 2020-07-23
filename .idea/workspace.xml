@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a8f3eb5f-0480-48d3-8790-d2b71f503862" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/SoccermaticsForPython-master.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/other.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="a8f3eb5f-0480-48d3-8790-d2b71f503862" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +32,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595410279531</updated>
-      <workItem from="1595410288583" duration="159000" />
+      <workItem from="1595410288583" duration="758000" />
     </task>
     <servers />
   </component>
