@@ -1,0 +1,520 @@
+,,,,,,,,,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Height,Height,Height,Body Parts,Body Parts,Body Parts,Body Parts,Body Parts,Outcomes,Outcomes,Outcomes,Outcomes,Outcomes,
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Press,Sw,Crs,CK,In,Out,Str,Ground,Low,High,Left,Right,Head,TI,Other,Cmp,Off,Out,Int,Blocks,Matches
+1,Patrick van Aanholt\Patrick-van-Aanholt,nl NED,DF,Crystal Palace,28,1990,27.9,1558,1175,383,62,0,222,35,88,45,23,15,3,930,322,306,997,256,21,275,3,1227,8,14,36,47,Matches
+2,Max Aarons\Max-Aarons,eng ENG,DF,Norwich City,19,2000,35.0,1663,1341,322,26,1,288,10,72,0,0,0,0,1008,384,271,215,1092,44,296,2,1300,0,30,22,69,Matches
+3,Tammy Abraham\Tammy-Abraham,eng ENG,FW,Chelsea,21,1997,24.1,407,356,51,0,0,145,5,10,0,0,0,0,256,79,72,31,302,18,0,17,285,1,6,8,26,Matches
+4,Che Adams\Che-Adams,eng ENG,FW,Southampton,23,1996,11.4,246,239,7,0,3,69,8,12,0,0,0,0,148,62,36,17,195,11,0,4,170,1,9,8,20,Matches
+5,Adrián\Adrian,es ESP,GK,Liverpool,32,1987,9.7,314,219,95,27,0,40,12,0,0,0,0,0,150,24,140,31,217,1,0,49,227,0,9,0,1,Matches
+6,Sergio Agüero\Sergio-Aguero,ar ARG,FW,Manchester City,31,1988,16.1,367,349,18,1,5,90,1,10,0,0,0,0,273,71,23,41,303,11,1,9,284,0,4,11,15,Matches
+7,Albian Ajeti\Albian-Ajeti,ch SUI,MFFW,West Ham,22,1997,1.5,18,17,1,0,0,5,0,0,0,0,0,0,6,8,4,2,12,3,0,0,15,0,0,0,0,Matches
+8,Nathan Aké\Nathan-Ake,nl NED,DF,Bournemouth,24,1995,27.8,1183,1130,53,33,1,150,15,4,0,0,0,0,852,134,197,840,209,92,20,1,1042,2,11,5,13,Matches
+9,Marc Albrighton\Marc-Albrighton,eng ENG,MFDF,Leicester City,29,1989,8.8,461,430,31,0,1,76,24,65,10,2,6,0,262,77,122,51,369,16,21,3,312,0,11,9,26,Matches
+10,Toby Alderweireld\Toby-Alderweireld,be BEL,DF,Tottenham,30,1989,31.9,1840,1759,81,72,6,200,64,8,0,0,0,0,1197,186,457,333,1360,99,9,7,1521,10,37,9,12,Matches
+11,Trent Alexander-Arnold\Trent-Alexander-Arnold,eng ENG,DF,Liverpool,20,1998,34.2,3063,2428,635,85,6,399,221,372,159,43,72,8,1443,551,1069,298,2278,79,391,7,2192,11,84,35,110,Matches
+12,Alisson\Alisson,br BRA,GK,Liverpool,26,1992,26.3,857,650,207,48,1,124,24,0,0,0,0,0,549,78,230,61,634,2,0,124,737,2,18,3,0,Matches
+13,Dele Alli\Dele-Alli,eng ENG,MFFW,Tottenham,23,1996,20.4,798,740,58,9,6,191,8,7,4,0,0,1,583,138,77,33,697,29,17,8,618,6,8,16,37,Matches
+14,Miguel Almirón\Miguel-Almiron,py PAR,MFFW,Newcastle Utd,25,1994,32.8,875,862,13,2,2,200,22,40,1,0,1,0,621,142,112,759,67,29,8,7,670,3,15,31,38,Matches
+15,Marcos Alonso\Marcos-Alonso,es ESP,DF,Chelsea,28,1990,13.9,980,830,150,7,0,212,17,62,1,1,0,0,599,198,183,704,78,35,142,0,809,1,12,9,29,Matches
+16,Steven Alzate\Steven-Alzate,co COL,MFDF,Brighton,20,1998,13.2,664,609,55,5,1,135,9,9,0,0,0,0,471,133,60,30,540,33,50,1,564,1,5,15,16,Matches
+17,Ibrahim Amadou\Ibrahim-Amadou,fr FRA,DFMF,Norwich City,26,1993,8.4,361,354,7,4,0,68,5,1,0,0,0,0,285,35,41,23,314,17,2,1,310,1,4,7,5,Matches
+18,Felipe Anderson\Felipe-Anderson,br BRA,MFFW,West Ham,26,1993,16.6,934,903,31,9,3,188,23,36,5,3,1,0,635,174,125,124,750,31,12,13,725,3,14,28,40,Matches
+19,Florin Andone\Florin-Andone,ro ROU,MFFW,Brighton,26,1993,0.8,12,11,1,0,0,5,0,0,1,0,0,0,8,2,2,2,6,2,0,1,8,0,0,1,1,Matches
+20,Angeliño\Angelino,es ESP,DF,Manchester City,22,1997,4.7,426,377,49,3,0,70,7,42,0,0,0,0,267,78,81,342,15,18,46,1,335,1,9,5,14,Matches
+21,Faustino Anjorin\Faustino-Anjorin,eng ENG,FW,Chelsea,17,2001,0.2,7,7,0,0,0,1,0,0,0,0,0,0,7,0,0,0,7,0,0,0,7,0,0,0,0,Matches
+22,Michail Antonio\Michail-Antonio,eng ENG,FW,West Ham,29,1990,18.3,466,428,38,1,5,162,13,44,0,0,0,0,222,126,118,43,302,30,24,15,299,4,8,5,33,Matches
+23,Stuart Armstrong\Stuart-Armstrong,sco SCO,MF,Southampton,27,1992,18.7,597,579,18,0,2,154,8,23,0,0,0,0,382,132,83,129,421,22,14,4,452,2,10,16,32,Matches
+24,Kepa Arrizabalaga\Kepa-Arrizabalaga,es ESP,GK,Chelsea,24,1994,32.0,1048,799,249,54,0,118,19,0,0,0,0,0,685,61,302,151,747,2,1,139,849,5,14,9,1,Matches
+25,Christian Atsu\Christian-Atsu,gh GHA,FWMF,Newcastle Utd,27,1992,8.3,208,198,10,2,1,45,8,17,6,2,2,0,147,20,41,168,26,9,1,0,163,2,5,4,6,Matches
+26,Pierre-Emerick Aubameyang\Pierre-Emerick-Aubameyang,ga GAB,FW,Arsenal,30,1989,33.8,859,827,32,0,1,237,9,85,2,0,0,0,541,169,149,99,708,22,2,3,590,2,23,22,50,Matches
+27,Serge Aurier\Serge-Aurier,ci CIV,DF,Tottenham,26,1992,29.0,1591,1328,263,14,1,269,19,131,0,0,0,0,875,408,308,167,1044,92,249,3,1210,3,27,31,68,Matches
+28,Jordan Ayew\Jordan-Ayew,gh GHA,FWMF,Crystal Palace,27,1991,34.0,816,780,36,2,2,243,10,25,1,0,0,0,570,151,95,48,666,30,12,16,664,3,9,18,32,Matches
+29,César Azpilicueta\Cesar-Azpilicueta,es ESP,DF,Chelsea,29,1989,33.9,2661,2282,379,20,1,394,40,117,0,0,0,0,1611,491,559,270,1867,105,359,7,2126,6,38,38,88,Matches
+30,Eric Bailly\Eric-Bailly,ci CIV,DF,Manchester Utd,25,1994,1.7,72,72,0,0,0,7,1,0,0,0,0,0,47,14,11,10,52,5,0,1,64,0,0,0,1,Matches
+31,Leighton Baines\Leighton-Baines,eng ENG,DF,Everton,34,1984,4.3,188,141,47,5,0,18,8,26,10,4,1,5,101,36,51,127,17,8,32,0,147,2,0,2,9,Matches
+32,Fabián Balbuena\Fabian-Balbuena,py PAR,DF,West Ham,27,1991,13.1,487,469,18,13,1,81,21,1,0,0,0,0,288,67,132,69,357,31,5,4,361,3,8,8,13,Matches
+33,George Baldock\George-Baldock,eng ENG,DF,Sheffield Utd,26,1993,37.0,1525,1224,301,7,0,270,25,128,1,1,0,0,748,368,409,50,1084,69,293,7,1154,4,30,16,85,Matches
+34,Phil Bardsley\Phil-Bardsley,sco SCO,DF,Burnley,34,1985,20.0,832,613,219,16,2,87,22,26,0,0,0,0,307,167,358,64,490,57,203,1,557,6,27,6,27,Matches
+35,Ross Barkley\Ross-Barkley,eng ENG,MF,Chelsea,25,1993,12.2,613,603,10,5,2,158,27,12,3,1,1,0,474,77,62,82,510,10,2,2,537,2,6,10,8,Matches
+36,Ashley Barnes\Ashley-Barnes,at AUT,FW,Burnley,29,1989,15.0,253,244,9,0,1,97,1,5,0,0,0,0,123,59,71,46,142,22,1,8,155,1,10,9,13,Matches
+37,Harvey Barnes\Harvey-Barnes,eng ENG,MFFW,Leicester City,21,1997,22.9,726,722,4,2,3,181,8,42,0,0,0,0,502,122,102,108,566,22,2,9,556,4,10,21,34,Matches
+38,Chris Basham\Chris-Basham,eng ENG,DF,Sheffield Utd,31,1988,35.1,1438,1270,168,20,0,245,35,49,0,0,0,0,760,249,429,116,986,137,148,5,1067,5,47,13,28,Matches
+39,Borja Bastón\Borja-Baston,es ESP,MFFW,Aston Villa,26,1992,0.2,5,5,0,0,0,2,0,0,0,0,0,0,2,1,2,0,4,0,0,0,4,0,0,0,0,Matches
+40,Michy Batshuayi\Michy-Batshuayi,be BEL,FW,Chelsea,25,1993,2.7,76,70,6,0,0,16,2,0,0,0,0,0,53,14,9,23,48,0,0,1,61,0,0,3,3,Matches
+41,Jan Bednarek\Jan-Bednarek,pl POL,DF,Southampton,23,1996,34.0,1434,1371,63,28,1,177,25,1,0,0,0,0,906,153,375,224,975,140,34,4,1143,3,26,12,16,Matches
+42,Héctor Bellerín\Hector-Bellerin,es ESP,DF,Arsenal,24,1995,12.9,686,557,129,16,2,98,5,26,0,0,0,0,420,159,107,50,488,26,113,0,558,2,8,11,29,Matches
+43,Ryan Bennett\Ryan-Bennett,eng ENG,DF,Wolves,29,1990,6.7,239,224,15,3,0,41,8,4,0,0,0,0,134,26,79,14,180,17,12,2,185,1,5,3,1,Matches
+44,Ryan Bennett\Ryan-Bennett,eng ENG,DF,Leicester City,29,1990,3.7,221,200,21,1,0,31,5,2,0,0,0,0,128,26,67,21,162,11,20,1,174,0,6,2,4,Matches
+45,Nabil Bentaleb\Nabil-Bentaleb,dz ALG,MF,Newcastle Utd,24,1994,7.8,387,375,12,12,0,57,18,0,0,0,0,0,281,57,49,299,55,17,0,3,334,0,8,8,7,Matches
+46,Christian Benteke\Christian-Benteke,be BEL,FW,Crystal Palace,28,1990,14.0,326,313,13,0,2,145,5,5,0,0,0,0,143,85,98,21,165,37,0,9,190,0,5,11,14,Matches
+47,Jóhann Berg Guðmundsson\Johann-Berg-Gudmundsson,is ISL,MF,Burnley,28,1990,6.1,174,167,7,0,0,39,15,31,6,6,0,0,87,31,56,138,24,8,1,0,117,0,2,1,5,Matches
+48,Sander Berge\Sander-Berge,no NOR,MF,Sheffield Utd,21,1998,9.5,353,348,5,2,0,100,9,23,0,0,0,0,237,69,47,35,274,16,3,2,273,0,11,4,14,Matches
+49,Steven Bergwijn\Steven-Bergwijn,nl NED,FWMF,Tottenham,21,1997,7.5,243,232,11,4,0,63,1,10,3,2,0,0,168,46,29,11,211,10,1,4,210,0,5,2,2,Matches
+50,Bernard\Bernard,br BRA,MFFW,Everton,26,1992,14.0,560,546,14,2,4,114,12,35,6,5,0,0,413,73,74,143,401,10,1,4,415,0,13,15,31,Matches
+51,Bernardo\Bernardo,br BRA,DF,Brighton,24,1995,7.3,370,319,51,1,0,80,1,16,0,0,0,0,193,88,89,248,30,20,50,2,274,0,12,9,14,Matches
+52,Ryan Bertrand\Ryan-Bertrand,eng ENG,DF,Southampton,29,1989,29.5,1582,1176,406,47,0,252,44,114,25,7,10,7,780,326,476,1022,87,91,334,6,1181,6,29,28,60,Matches
+53,Muhamed Bešić\Muhamed-Besic,ba BIH,MF,Sheffield Utd,26,1992,2.8,106,104,2,2,0,24,5,1,0,0,0,0,69,20,17,14,80,8,0,0,86,0,0,3,5,Matches
+54,Philip Billing\Philip-Billing,dk DEN,MF,Bournemouth,23,1996,27.8,1165,1106,59,20,4,281,20,15,0,0,0,0,692,215,258,820,127,99,39,5,867,4,41,19,29,Matches
+55,Yves Bissouma\Yves-Bissouma,ml MLI,MF,Brighton,22,1996,13.2,605,593,12,10,0,99,22,6,0,0,0,0,422,102,81,47,523,17,2,6,510,2,9,10,9,Matches
+56,Willy Boly\Willy-Boly,fr FRA,DF,Wolves,28,1991,21.0,927,910,17,14,4,144,14,2,0,0,0,0,637,97,193,102,730,50,3,3,769,3,12,9,11,Matches
+57,Gaëtan Bong\Gaetan-Bong,cm CMR,MFDF,Brighton,31,1988,0.7,35,32,3,1,0,3,1,5,0,0,0,0,23,2,10,32,1,0,2,0,24,0,1,1,3,Matches
+58,Sofiane Boufal\Sofiane-Boufal,ma MAR,MFFW,Southampton,25,1993,8.5,325,317,8,1,1,96,8,27,1,0,0,0,222,54,49,62,236,12,6,1,247,0,9,6,14,Matches
+59,Jarrod Bowen\Jarrod-Bowen,eng ENG,FWMF,West Ham,22,1996,8.7,222,196,26,3,1,38,17,53,23,19,1,0,121,31,70,168,46,5,0,1,146,0,8,1,13,Matches
+60,Robbie Brady\Robbie-Brady,ie IRL,MF,Burnley,27,1992,4.9,156,148,8,3,0,46,4,12,4,4,0,0,79,28,49,112,20,13,1,0,100,1,5,5,4,Matches
+61,Jarrad Branthwaite\Jarrad-Branthwaite,eng ENG,DF,Everton,17,2002,2.3,123,119,4,2,0,7,5,0,0,0,0,0,96,9,18,89,26,6,0,0,104,0,7,0,0,Matches
+62,Claudio Bravo\Claudio-Bravo,cl CHI,GK,Manchester City,36,1983,3.9,132,96,36,8,0,20,5,0,0,0,0,0,69,15,48,11,105,0,0,13,101,0,4,2,0,Matches
+63,Armando Broja\Armando-Broja,al ALB,FW,Chelsea,17,2001,0.1,2,2,0,0,0,2,0,0,0,0,0,0,1,1,0,0,1,0,0,1,2,0,0,0,0,Matches
+64,David Brooks\David-Brooks,wal WAL,MF,Bournemouth,22,1997,4.9,159,138,21,3,2,20,5,22,12,6,4,0,86,41,32,120,37,1,1,0,107,1,3,2,8,Matches
+65,Josh Brownhill\Josh-Brownhill,eng ENG,MF,Burnley,23,1995,7.9,293,285,8,4,0,39,5,2,0,0,0,0,174,50,69,35,213,27,3,2,239,3,6,2,3,Matches
+66,Emi Buendía\Emi-Buendia,ar ARG,FWMF,Norwich City,22,1996,27.4,1534,1343,191,66,16,378,87,166,108,46,50,10,1040,202,292,199,1272,29,17,2,1144,8,27,37,52,Matches
+67,Dan Burn\Dan-Burn,eng ENG,DF,Brighton,27,1992,31.0,1795,1527,268,10,1,341,21,51,1,0,0,1,978,357,460,1181,159,106,257,2,1357,2,41,21,61,Matches
+68,Sam Byram\Sam-Byram,eng ENG,DF,Norwich City,25,1993,14.4,763,624,139,11,0,145,2,7,0,0,0,0,406,199,158,107,450,54,128,5,625,2,17,7,16,Matches
+69,Willy Caballero\Willy-Caballero,ar ARG,GK,Chelsea,37,1981,4.0,125,101,24,2,0,12,3,0,0,0,0,0,57,3,65,19,88,0,0,10,88,0,2,0,0,Matches
+70,Gary Cahill\Gary-Cahill,eng ENG,DF,Crystal Palace,33,1985,24.1,953,914,39,36,0,157,26,0,0,0,0,0,659,115,179,93,747,63,3,7,826,0,20,3,9,Matches
+71,Dominic Calvert-Lewin\Dominic-Calvert-Lewin,eng ENG,FW,Everton,22,1997,28.9,588,564,24,2,3,213,7,19,0,0,0,0,267,180,141,59,320,60,1,23,388,3,9,7,25,Matches
+72,Víctor Camarasa\Victor-Camarasa,es ESP,MF,Crystal Palace,25,1994,0.1,3,3,0,0,0,1,0,0,0,0,0,0,3,0,0,0,3,0,0,0,3,0,0,0,0,Matches
+73,João Cancelo\Joao-Cancelo,pt POR,DF,Manchester City,25,1994,12.4,1057,964,93,6,4,137,24,41,1,0,1,0,762,172,123,127,805,27,86,3,927,4,13,16,20,Matches
+74,Todd Cantwell\Todd-Cantwell,eng ENG,FWMF,Norwich City,21,1998,26.7,1083,1046,37,13,1,257,27,24,4,0,1,0,796,183,104,90,930,30,15,9,865,6,33,22,37,Matches
+75,Étienne Capoue\Etienne-Capoue,fr FRA,MF,Watford,31,1988,29.2,1430,1348,82,38,4,185,76,23,7,4,3,0,838,246,346,212,1069,104,3,9,1158,3,17,15,20,Matches
+76,Andy Carroll\Andy-Carroll,eng ENG,FW,Newcastle Utd,30,1989,6.8,206,201,5,0,1,102,7,5,0,0,0,0,78,63,65,81,45,12,0,11,133,1,7,2,4,Matches
+77,Jonny Castro\Jonny-Castro,es ESP,DF,Wolves,25,1994,31.4,1418,1118,300,7,0,265,17,52,2,1,0,0,813,388,217,333,712,52,291,5,1155,3,22,23,47,Matches
+78,Craig Cathcart\Craig-Cathcart,nir NIR,DF,Watford,30,1989,27.6,864,841,23,18,0,138,32,1,0,0,0,0,521,120,223,196,549,75,5,3,719,2,14,7,5,Matches
+79,Dani Ceballos\Dani-Ceballos,es ESP,MF,Arsenal,22,1996,18.0,1248,1149,99,33,4,193,51,71,62,11,19,9,911,142,195,70,1148,16,4,3,1050,3,17,18,35,Matches
+80,Nathaniel Chalobah\Nathaniel-Chalobah,eng ENG,MF,Watford,24,1994,10.2,344,322,22,6,2,85,15,20,13,2,2,5,204,74,66,59,249,22,2,0,252,1,7,6,17,Matches
+81,Calum Chambers\Calum-Chambers,eng ENG,DF,Arsenal,24,1995,12.2,865,773,92,8,0,159,15,34,0,0,0,0,594,144,127,54,684,27,83,1,702,1,10,9,31,Matches
+82,Ben Chilwell\Ben-Chilwell,eng ENG,DF,Leicester City,22,1996,26.4,1956,1653,303,32,3,327,40,104,7,0,3,0,1165,381,410,1414,183,53,264,4,1528,3,42,32,63,Matches
+83,Tahith Chong\Tahith-Chong,nl NED,FWMF,Manchester Utd,19,1999,0.4,14,14,0,0,0,2,0,0,0,0,0,0,13,1,0,14,0,0,0,0,9,0,1,2,1,Matches
+84,Hamza Choudhury\Hamza-Choudhury,eng ENG,MF,Leicester City,21,1997,9.1,465,453,12,12,0,63,4,4,0,0,0,0,364,43,58,32,392,34,0,1,402,0,4,8,7,Matches
+85,Andreas Christensen\Andreas-Christensen,dk DEN,DF,Chelsea,23,1996,19.5,1258,1224,34,29,1,170,33,0,0,0,0,0,1047,83,128,80,1108,31,5,3,1166,3,16,7,6,Matches
+86,Ciaran Clark\Ciaran-Clark,ie IRL,DF,Newcastle Utd,29,1989,13.2,322,297,25,10,0,58,7,0,0,0,0,0,182,43,97,227,42,24,15,1,253,0,9,2,4,Matches
+87,Leon Clarke\Leon-Clarke,eng ENG,MF,Sheffield Utd,34,1985,0.2,3,3,0,0,0,0,0,0,0,0,0,0,2,1,0,2,1,0,0,0,3,0,0,0,0,Matches
+88,Tom Cleverley\Tom-Cleverley,eng ENG,MF,Watford,29,1989,10.7,462,434,28,14,1,72,14,27,6,1,2,2,275,79,108,53,370,27,5,2,361,3,9,4,10,Matches
+89,Conor Coady\Conor-Coady,eng ENG,DF,Wolves,26,1993,37.0,1747,1715,32,31,3,214,98,0,0,0,0,0,1045,202,500,66,1553,104,1,4,1509,3,24,15,14,Matches
+90,Séamus Coleman\Seamus-Coleman,ie IRL,DF,Everton,30,1988,19.8,1022,801,221,13,1,167,13,41,0,0,0,0,515,232,275,113,643,43,208,1,784,3,16,21,45,Matches
+91,Aaron Connolly\Aaron-Connolly,ie IRL,FW,Brighton,19,2000,13.0,152,138,14,0,1,46,0,9,0,0,0,0,83,48,21,27,98,12,1,6,117,0,1,4,9,Matches
+92,Lewis Cook\Lewis-Cook,eng ENG,MF,Bournemouth,22,1997,15.0,719,698,21,12,5,131,18,9,1,0,0,0,434,161,124,41,633,24,7,1,560,5,11,14,24,Matches
+93,Steve Cook\Steve-Cook,eng ENG,DF,Bournemouth,28,1991,26.0,1209,1151,58,40,2,175,19,2,0,0,0,0,750,153,306,42,1007,94,18,1,986,4,21,7,12,Matches
+94,Jack Cork\Jack-Cork,eng ENG,MF,Burnley,30,1989,29.0,933,926,7,3,3,243,26,6,0,0,0,0,589,148,196,101,723,59,4,3,743,6,13,9,16,Matches
+95,Aaron Cresswell\Aaron-Cresswell,eng ENG,DF,West Ham,29,1989,29.5,1633,1253,380,42,3,237,35,125,19,11,5,0,771,350,512,1165,78,39,319,1,1203,6,39,18,75,Matches
+96,Patrick Cutrone\Patrick-Cutrone,it ITA,FW,Wolves,21,1998,3.3,56,49,7,0,0,21,2,6,0,0,0,0,33,11,12,9,40,1,0,3,38,0,4,1,0,Matches
+97,Diogo Dalot\Diogo-Dalot,pt POR,DF,Manchester Utd,20,1999,0.7,64,50,14,0,0,8,0,3,1,0,0,0,34,20,10,7,40,2,13,1,51,0,1,2,1,Matches
+98,Charlie Daniels\Charlie-Daniels,eng ENG,DF,Bournemouth,32,1986,1.4,49,39,10,4,0,7,4,5,0,0,0,0,25,9,15,42,1,0,6,0,35,2,4,0,0,Matches
+99,Scott Dann\Scott-Dann,eng ENG,DF,Crystal Palace,32,1987,13.1,511,483,28,27,0,62,14,2,0,0,0,0,323,82,106,61,383,46,1,3,426,0,5,6,8,Matches
+100,Kevin Danso\Kevin-Danso,at AUT,DF,Southampton,20,1998,3.1,159,125,34,1,0,32,4,4,0,0,0,0,93,24,42,10,105,6,33,0,115,0,4,5,3,Matches
+101,Ben Davies\Ben-Davies,wal WAL,DF,Tottenham,26,1993,14.9,905,749,156,15,1,121,11,29,0,0,0,0,518,190,197,620,77,41,141,2,696,2,14,22,28,Matches
+102,Tom Davies\Tom-Davies,eng ENG,MF,Everton,21,1998,21.8,812,783,29,16,6,154,26,8,0,0,0,0,514,144,154,96,626,58,5,4,631,3,15,12,24,Matches
+103,Keinan Davis\Keinan-Davis,eng ENG,FW,Aston Villa,21,1998,5.8,134,129,5,0,0,50,0,1,0,0,0,0,97,21,16,95,19,6,1,2,102,0,3,1,5,Matches
+104,Craig Dawson\Craig-Dawson,eng ENG,DF,Watford,29,1990,25.2,861,831,30,13,1,144,48,4,0,0,0,0,495,141,225,49,683,60,17,9,687,5,24,6,12,Matches
+105,Kevin De Bruyne\Kevin-De-Bruyne,be BEL,MF,Manchester City,28,1991,30.0,2175,1917,258,49,29,358,132,294,170,58,50,17,1428,299,448,250,1835,39,35,3,1622,13,35,59,95,Matches
+106,Troy Deeney\Troy-Deeney,eng ENG,FW,Watford,31,1988,23.7,668,647,21,0,3,245,5,8,1,0,0,0,221,250,197,23,369,120,1,12,381,6,24,15,27,Matches
+107,Fabian Delph\Fabian-Delph,eng ENG,MF,Everton,29,1989,13.2,778,763,15,11,2,122,28,8,0,0,0,0,550,113,115,483,250,28,2,3,676,2,13,6,7,Matches
+108,Leander Dendoncker\Leander-Dendoncker,be BEL,MFDF,Wolves,24,1995,30.1,1246,1230,16,13,1,184,41,8,0,0,0,0,889,164,193,202,884,98,2,2,1060,4,8,19,21,Matches
+109,Gerard Deulofeu\Gerard-Deulofeu,es ESP,FW,Watford,25,1994,23.3,823,731,92,30,3,178,25,91,33,14,11,4,544,151,128,66,732,9,8,6,603,4,9,20,48,Matches
+110,Eric Dier\Eric-Dier,eng ENG,DFMF,Tottenham,25,1994,13.9,810,793,17,16,0,137,20,3,0,0,0,0,548,98,164,108,600,53,1,2,652,4,13,16,7,Matches
+111,Lucas Digne\Lucas-Digne,fr FRA,DF,Everton,26,1993,32.9,1888,1363,525,62,3,286,70,263,107,52,39,8,782,418,688,1242,99,111,356,7,1307,6,33,32,86,Matches
+112,Virgil van Dijk\Virgil-van-Dijk,nl NED,DF,Liverpool,28,1991,36.0,2904,2821,83,72,8,307,126,0,0,0,0,0,2189,252,463,333,2322,143,11,6,2630,1,41,13,10,Matches
+113,Issa Diop\Issa-Diop,fr FRA,DF,West Ham,22,1997,28.7,867,827,40,39,0,129,15,1,0,0,0,0,563,94,210,122,620,83,1,2,691,2,25,10,13,Matches
+114,Moussa Djenepo\Moussa-Djenepo,ml MLI,MFDF,Southampton,21,1998,10.3,264,254,10,0,3,56,5,23,0,0,0,0,169,62,33,60,176,11,9,5,191,1,7,8,8,Matches
+115,Matt Doherty\Matt-Doherty,ie IRL,DF,Wolves,27,1992,30.9,1759,1427,332,5,1,288,23,43,0,0,0,0,872,465,422,73,1159,114,327,12,1345,3,26,33,58,Matches
+116,Abdoulaye Doucouré\Abdoulaye-Doucoure,fr FRA,MF,Watford,26,1993,34.2,1601,1589,12,8,1,339,23,23,1,0,0,0,1128,287,186,257,1232,68,0,5,1260,3,18,29,59,Matches
+117,Thomas Doyle\Thomas-Doyle,eng ENG,MFFW,Manchester City,17,2001,0.2,19,18,1,1,0,1,0,0,0,0,0,0,19,0,0,4,15,0,0,0,19,0,0,0,0,Matches
+118,Danny Drinkwater\Danny-Drinkwater,eng ENG,MF,Burnley,29,1990,0.6,20,19,1,1,0,3,1,0,0,0,0,0,9,2,9,3,14,3,0,0,11,0,2,0,1,Matches
+119,Danny Drinkwater\Danny-Drinkwater,eng ENG,MF,Aston Villa,29,1990,2.9,167,163,4,4,0,32,7,1,0,0,0,0,96,44,27,35,126,3,0,0,136,0,5,2,6,Matches
+120,Josip Drmić\Josip-Drmic,ch SUI,FWMF,Norwich City,26,1992,7.2,164,152,12,0,0,48,5,3,2,2,0,0,102,44,18,19,121,7,1,9,125,0,4,4,3,Matches
+121,Martin Dúbravka\Martin-Dubravka,sk SVK,GK,Newcastle Utd,30,1989,37.0,1062,586,476,146,0,119,33,0,0,0,0,0,264,37,761,47,825,1,1,119,584,7,32,6,2,Matches
+122,Ondrej Duda\Ondrej-Duda,sk SVK,MF,Norwich City,24,1994,8.0,382,345,37,10,0,72,17,43,24,8,15,0,226,82,74,41,309,13,1,11,298,0,7,7,13,Matches
+123,Shane Duffy\Shane-Duffy,ie IRL,DF,Brighton,27,1992,13.8,613,577,36,32,0,98,35,1,0,0,0,0,391,86,136,39,482,48,4,8,515,1,16,3,7,Matches
+124,Paul Dummett\Paul-Dummett,wal WAL,DF,Newcastle Utd,27,1991,13.6,502,450,52,11,0,104,11,15,0,0,0,0,262,71,169,382,30,29,41,3,358,2,12,6,16,Matches
+125,Lewis Dunk\Lewis-Dunk,eng ENG,DF,Brighton,27,1991,34.9,2150,2058,92,60,1,261,115,1,0,0,0,0,1503,255,392,134,1821,105,32,18,1882,6,49,22,9,Matches
+126,Ederson\Ederson,br BRA,GK,Manchester City,25,1993,33.1,1034,853,181,45,1,117,38,0,0,0,0,0,764,59,211,713,143,3,1,157,900,3,17,4,1,Matches
+127,John Egan\John-Egan,ie IRL,DF,Sheffield Utd,26,1992,34.4,1194,1162,32,28,0,187,49,2,0,0,0,0,760,154,280,141,881,111,4,4,1006,2,29,2,6,Matches
+128,Harvey Elliot\Harvey-Elliot,eng ENG,DF,Liverpool,16,2003,0.1,15,11,4,0,0,0,1,3,3,0,2,0,8,3,4,13,1,0,1,0,12,0,0,0,0,Matches
+129,Ahmed Elmohamady\Ahmed-Elmohamady,eg EGY,DF,Aston Villa,31,1987,11.5,633,533,100,6,0,102,12,58,0,0,0,0,304,136,193,7,482,30,94,1,484,3,9,18,14,Matches
+130,Björn Engels\Bjorn-Engels,be BEL,DF,Aston Villa,24,1994,16.1,605,586,19,17,0,91,29,2,0,0,0,0,399,68,138,53,491,31,2,1,503,2,9,5,4,Matches
+131,Christian Eriksen\Christian-Eriksen,dk DEN,MFFW,Tottenham,27,1992,12.2,743,659,84,26,4,119,35,72,46,18,16,5,468,111,164,173,532,23,10,2,549,4,9,18,19,Matches
+132,Jonny Evans\Jonny-Evans,nir NIR,DF,Leicester City,31,1988,36.6,2314,2232,82,71,2,304,57,8,0,0,0,0,1728,214,372,562,1564,114,11,4,2039,2,42,12,13,Matches
+133,Łukasz Fabiański\Lukasz-Fabianski,pl POL,GK,West Ham,34,1985,21.5,612,369,243,64,0,54,14,0,0,0,0,0,106,38,468,17,463,0,0,81,339,4,14,1,3,Matches
+134,Fabinho\Fabinho,br BRA,MF,Liverpool,25,1993,22.1,1472,1449,23,16,5,233,37,9,0,0,0,0,1017,201,254,102,1274,61,4,2,1288,2,18,9,14,Matches
+135,Ralf Fährmann\Ralf-Fahrmann,de GER,GK,Norwich City,30,1988,0.2,10,7,3,0,0,0,0,0,0,0,0,0,6,1,3,2,6,0,0,2,7,0,1,0,0,Matches
+136,Kiko Femenía\Kiko-Femenia,es ESP,DF,Watford,28,1991,24.4,1266,989,277,16,0,162,23,66,2,1,1,0,667,296,303,144,791,53,259,4,976,1,21,31,36,Matches
+137,Bruno Fernandes\Bruno-Fernandes,pt POR,MF,Manchester Utd,24,1994,11.2,726,632,94,26,4,122,44,68,50,15,22,4,438,125,163,59,647,12,5,2,515,3,10,19,30,Matches
+138,Gedson Fernandes\Gedson-Fernandes,pt POR,MFDF,Tottenham,20,1999,0.8,51,44,7,1,0,11,0,6,0,0,0,0,30,14,7,4,39,2,6,0,40,0,1,0,3,Matches
+139,Federico Fernández\Federico-Fernandez,ar ARG,DF,Newcastle Utd,30,1989,28.1,1163,1032,131,40,1,164,51,27,0,0,0,0,703,145,315,69,916,56,90,1,893,4,37,19,23,Matches
+140,Fernandinho\Fernandinho,br BRA,DF,Manchester City,34,1985,26.1,2137,2081,56,44,2,248,75,4,0,0,0,0,1664,190,283,235,1756,83,12,9,1934,6,23,12,22,Matches
+141,Roberto Firmino\Roberto-Firmino,br BRA,FW,Liverpool,27,1991,31.9,1125,1100,25,3,7,301,8,8,0,0,0,0,844,196,85,150,886,54,10,12,896,3,7,48,54,Matches
+142,John Fleck\John-Fleck,sco SCO,MF,Sheffield Utd,27,1991,27.0,1142,1011,131,30,3,223,63,143,76,49,10,5,668,211,263,970,94,55,6,8,842,8,21,21,47,Matches
+143,Phil Foden\Phil-Foden,eng ENG,FWMF,Manchester City,19,2000,9.5,462,449,13,4,3,67,16,23,5,1,1,0,364,45,53,411,33,8,4,2,393,0,5,2,14,Matches
+144,Pablo Fornals\Pablo-Fornals,es ESP,MFFW,West Ham,23,1996,22.4,826,790,36,9,6,202,29,60,19,4,9,3,542,156,128,99,694,21,2,5,630,0,13,15,51,Matches
+145,Ben Foster\Ben-Foster,eng ENG,GK,Watford,36,1983,37.0,1182,722,460,172,0,96,55,0,0,0,0,0,169,57,956,780,159,1,1,118,522,13,36,7,3,Matches
+146,Timothy Fosu-Mensah\Timothy-Fosu-Mensah,nl NED,DF,Manchester Utd,21,1998,1.0,54,49,5,0,0,2,1,1,0,0,0,0,40,7,7,13,33,3,5,0,49,0,2,1,0,Matches
+147,Dimitri Foulquier\Dimitri-Foulquier,fr FRA,MFDF,Watford,26,1993,0.7,13,12,1,0,0,5,0,1,0,0,0,0,7,4,2,2,10,0,1,0,10,0,1,0,1,Matches
+148,Juan Foyth\Juan-Foyth,ar ARG,DF,Tottenham,21,1998,0.8,60,52,8,1,0,12,3,0,0,0,0,0,44,8,8,6,46,0,7,0,53,1,1,1,0,Matches
+149,Simon Francis\Simon-Francis,eng ENG,DF,Bournemouth,34,1985,10.8,544,504,40,11,1,123,18,16,0,0,0,0,272,126,146,48,403,34,29,2,425,0,10,9,6,Matches
+150,Ryan Fraser\Ryan-Fraser,sco SCO,MFFW,Bournemouth,25,1994,23.0,950,818,132,35,9,205,29,173,64,25,20,8,516,180,254,195,697,27,19,5,648,4,18,16,38,Matches
+151,Fred\Fred,br BRA,MF,Manchester Utd,26,1993,24.0,1714,1608,106,53,3,344,83,63,42,15,16,0,1231,232,251,1200,466,29,8,6,1463,2,18,20,37,Matches
+152,Ryan Fredericks\Ryan-Fredericks,eng ENG,DF,West Ham,26,1992,23.9,1027,834,193,5,0,158,6,57,0,0,0,0,539,165,323,83,680,61,188,2,746,3,12,12,44,Matches
+153,Kieron Freeman\Kieron-Freeman,wal WAL,FW,Sheffield Utd,27,1992,0.1,2,2,0,0,0,1,0,0,0,0,0,0,1,1,0,0,2,0,0,0,2,0,0,0,0,Matches
+154,Luke Freeman\Luke-Freeman,eng ENG,MF,Sheffield Utd,27,1992,4.1,150,143,7,0,0,37,2,15,7,4,1,0,92,31,27,124,18,4,0,0,110,0,7,2,11,Matches
+155,Christian Fuchs\Christian-Fuchs,at AUT,DF,Leicester City,33,1986,8.6,630,544,86,12,1,87,17,16,0,0,0,0,389,122,119,457,60,25,74,1,510,1,12,11,12,Matches
+156,Eric García\Eric-Garcia,es ESP,DF,Manchester City,18,2001,8.3,659,652,7,6,0,49,15,1,0,0,0,0,597,29,33,59,584,10,1,1,626,1,3,2,4,Matches
+157,James Garner\James-Garner,eng ENG,MF,Manchester Utd,18,2001,0.1,15,15,0,0,0,6,1,0,0,0,0,0,15,0,0,2,12,0,0,1,15,0,0,0,0,Matches
+158,Dwight Gayle\Dwight-Gayle,eng ENG,FW,Newcastle Utd,28,1990,8.7,141,127,14,1,1,43,4,3,0,0,0,0,78,32,31,20,88,13,2,2,103,1,5,2,4,Matches
+159,Paulo Gazzaniga\Paulo-Gazzaniga,ar ARG,GK,Tottenham,27,1992,17.9,516,350,166,26,1,63,10,0,0,0,0,0,223,15,278,21,393,0,0,58,319,2,14,0,2,Matches
+160,Jean-Philippe Gbamin\Jean-Philippe-Gbamin,ci CIV,MF,Everton,23,1995,1.5,67,64,3,3,0,9,3,0,0,0,0,0,46,7,14,7,55,4,0,0,50,0,6,0,5,Matches
+161,David de Gea\David-de-Gea,es ESP,GK,Manchester Utd,28,1990,36.0,885,570,315,70,0,105,21,0,0,0,0,0,513,77,295,51,659,0,1,142,685,1,17,3,5,Matches
+162,Anwar El Ghazi\Anwar-El-Ghazi,nl NED,FWMF,Aston Villa,24,1995,22.8,615,574,41,3,0,154,30,106,17,7,5,0,331,134,150,95,450,29,16,4,402,4,28,9,47,Matches
+163,Morgan Gibbs-White\Morgan-Gibbs-White,eng ENG,MFFW,Wolves,19,2000,1.4,82,80,2,1,1,17,0,3,0,0,0,0,49,17,16,3,68,5,1,2,66,1,2,1,1,Matches
+164,Billy Gilmour\Billy-Gilmour,sco SCO,MF,Chelsea,18,2001,2.2,169,168,1,1,0,37,7,1,0,0,0,0,119,30,20,10,144,12,0,0,151,0,1,2,1,Matches
+165,Olivier Giroud\Olivier-Giroud,fr FRA,FW,Chelsea,32,1986,9.5,256,237,19,0,2,83,1,2,0,0,0,0,107,99,50,148,38,30,0,16,172,0,4,7,8,Matches
+166,Ben Godfrey\Ben-Godfrey,eng ENG,DF,Norwich City,21,1998,28.4,1581,1535,46,34,1,253,75,3,0,0,0,0,1229,160,192,133,1351,52,12,2,1397,1,35,18,14,Matches
+167,André Gomes\Andre-Gomes,pt POR,MF,Everton,26,1993,15.2,749,723,26,16,1,112,62,11,1,0,1,0,488,119,142,198,510,27,2,3,623,2,23,11,16,Matches
+168,Angel Gomes\Angel-Gomes,eng ENG,MF,Manchester Utd,18,2000,0.2,13,13,0,0,1,0,1,0,0,0,0,0,10,0,3,0,13,0,0,0,11,0,2,0,0,Matches
+169,Joe Gomez\Joe-Gomez,eng ENG,DF,Liverpool,22,1997,20.3,1779,1734,45,31,0,189,56,8,0,0,0,0,1338,171,270,119,1516,80,14,1,1586,2,17,4,10,Matches
+170,Anthony Gordon\Anthony-Gordon,eng ENG,MF,Everton,18,2001,4.5,105,96,9,5,1,13,1,6,0,0,0,0,85,8,12,7,95,2,0,1,82,1,2,1,3,Matches
+171,Dan Gosling\Dan-Gosling,eng ENG,MF,Bournemouth,29,1990,13.0,476,467,9,4,0,118,6,3,0,0,0,0,306,104,66,47,387,25,1,2,379,1,11,10,19,Matches
+172,Andre Gray\Andre-Gray,eng ENG,FW,Watford,28,1991,8.4,155,147,8,0,2,55,2,5,0,0,0,0,96,41,18,33,101,8,0,5,102,0,4,6,16,Matches
+173,Demarai Gray\Demarai-Gray,eng ENG,MFFW,Leicester City,23,1996,6.7,314,303,11,2,3,70,9,27,5,3,1,0,236,47,31,24,277,2,4,5,263,2,3,2,13,Matches
+174,Jack Grealish\Jack-Grealish,eng ENG,FWMF,Aston Villa,23,1995,34.9,1511,1314,197,73,5,341,83,137,74,47,6,9,1055,209,247,102,1341,18,29,6,1194,5,24,27,49,Matches
+175,Mason Greenwood\Mason-Greenwood,eng ENG,FW,Manchester Utd,17,2001,12.8,416,413,3,0,0,88,11,9,2,0,1,0,329,47,40,324,79,9,0,0,355,1,5,6,10,Matches
+176,Arnaut Groeneveld\Arnaut-Groeneveld,nl NED,MF,Bournemouth,22,1997,7.0,227,221,6,1,0,63,5,9,3,2,1,0,160,41,26,30,184,10,2,0,181,1,4,5,14,Matches
+177,Pascal Groß\Pascal-Gross,de GER,FWMF,Brighton,28,1991,20.0,1028,888,140,48,3,195,66,146,80,22,31,19,605,152,271,179,802,26,3,4,762,9,16,16,37,Matches
+178,Vicente Guaita\Vicente-Guaita,es ESP,GK,Crystal Palace,32,1987,34.0,1031,684,347,77,0,113,27,0,0,0,0,0,298,68,665,77,716,1,1,160,578,5,48,0,0,Matches
+179,Mattéo Guendouzi\Matteo-Guendouzi,fr FRA,MF,Arsenal,20,1999,19.4,1144,1108,36,26,3,224,29,6,1,0,0,0,929,112,103,62,1032,34,8,5,1018,3,6,18,32,Matches
+180,Frederic Guilbert\Frederic-Guilbert,fr FRA,DF,Aston Villa,24,1994,21.8,998,789,209,13,1,137,25,89,1,0,0,0,431,221,346,89,619,66,195,7,668,7,33,17,51,Matches
+181,İlkay Gündoğan\Ilkay-Gundogan,de GER,MF,Manchester City,28,1990,21.9,1929,1868,61,28,11,344,44,30,23,10,4,2,1495,246,188,531,1337,40,5,3,1754,3,13,24,24,Matches
+182,Angus Gunn\Angus-Gunn,eng ENG,GK,Southampton,23,1996,10.0,256,144,112,33,0,19,9,0,0,0,0,0,58,11,187,8,202,0,0,24,111,0,10,2,0,Matches
+183,Sébastien Haller\Sebastien-Haller,fr FRA,FW,West Ham,25,1994,24.5,743,713,30,0,2,316,4,8,0,0,0,0,333,195,215,80,422,58,0,22,503,3,8,21,27,Matches
+184,Grant Hanley\Grant-Hanley,sco SCO,DF,Norwich City,27,1991,14.0,639,606,33,33,0,97,21,0,0,0,0,0,464,64,111,66,527,32,0,1,538,2,14,4,6,Matches
+185,Kortney Hause\Kortney-Hause,eng ENG,DF,Aston Villa,24,1995,17.0,788,742,46,25,0,140,26,0,0,0,0,0,417,125,246,569,76,61,21,1,590,4,20,12,15,Matches
+186,Isaac Hayden\Isaac-Hayden,eng ENG,MF,Newcastle Utd,24,1995,24.5,831,782,49,15,3,199,12,38,0,0,0,0,546,116,169,103,621,53,12,5,628,2,15,14,36,Matches
+187,Tom Heaton\Tom-Heaton,eng ENG,GK,Aston Villa,33,1986,19.9,614,342,272,76,0,62,17,0,0,0,0,0,210,22,382,28,461,1,0,95,350,2,22,1,0,Matches
+188,Dean Henderson\Dean-Henderson,eng ENG,GK,Sheffield Utd,22,1997,35.0,1004,638,366,116,0,75,24,0,0,0,0,0,128,58,818,59,721,0,0,96,411,3,57,3,6,Matches
+189,Jordan Henderson\Jordan-Henderson,eng ENG,MF,Liverpool,29,1990,24.9,1879,1834,45,16,14,275,73,58,1,0,0,0,1224,270,385,209,1565,68,13,4,1582,4,20,15,40,Matches
+190,Jeff Hendrick\Jeff-Hendrick,ie IRL,MF,Burnley,27,1992,21.5,575,548,27,3,0,135,12,31,6,6,0,0,370,79,126,60,461,29,7,6,420,5,15,11,40,Matches
+191,Wayne Hennessey\Wayne-Hennessey,wal WAL,GK,Crystal Palace,32,1987,3.0,103,51,52,13,0,4,2,0,0,0,0,0,13,1,89,9,83,0,0,6,44,1,4,0,0,Matches
+192,Javier Hernández\Javier-Hernandez,mx MEX,FW,West Ham,31,1988,1.2,22,18,4,0,0,3,0,1,0,0,0,0,17,3,2,6,14,1,0,1,19,0,0,0,1,Matches
+193,Onel Hernández\Onel-Hernandez,cu CUB,FWMF,Norwich City,26,1993,14.4,320,311,9,0,1,85,2,24,1,0,0,0,240,50,30,57,242,9,7,2,238,0,1,6,18,Matches
+194,Son Heung-min\Son-Heung-min,kr KOR,FWMF,Tottenham,27,1992,26.6,849,770,79,12,6,194,30,75,46,20,13,7,606,139,104,115,684,23,15,4,681,1,10,15,40,Matches
+195,George Hirst\George-Hirst,eng ENG,FW,Leicester City,20,1999,0.1,6,6,0,0,0,4,0,0,0,0,0,0,3,1,2,0,4,0,0,0,4,0,0,0,0,Matches
+196,Rob Holding\Rob-Holding,eng ENG,DF,Arsenal,23,1995,5.5,290,282,8,7,1,33,11,0,0,0,0,0,234,14,42,35,236,13,1,0,254,2,8,2,1,Matches
+197,José Holebas\Jose-Holebas,gr GRE,DF,Watford,35,1984,11.4,608,422,186,17,0,85,31,70,36,12,17,5,252,133,223,373,48,32,133,0,431,1,11,10,11,Matches
+198,Mason Holgate\Mason-Holgate,eng ENG,DF,Everton,22,1996,22.8,991,954,37,25,1,127,44,2,0,0,0,0,712,99,180,149,758,53,11,0,855,1,23,8,11,Matches
+199,Nathan Holland\Nathan-Holland,eng ENG,MF,West Ham,21,1998,0.4,14,13,1,0,0,4,0,2,0,0,0,0,9,4,1,0,13,0,1,0,11,0,0,0,1,Matches
+200,Conor Hourihane\Conor-Hourihane,ie IRL,MF,Aston Villa,28,1991,16.2,690,539,151,69,2,87,31,107,53,20,19,0,443,94,153,603,52,15,11,2,521,2,14,12,21,Matches
+201,Callum Hudson-Odoi\Callum-Hudson-Odoi,eng ENG,FW,Chelsea,18,2000,9.1,456,429,27,2,1,135,29,59,18,5,7,0,291,74,91,55,374,16,7,1,369,2,12,7,14,Matches
+202,Will Hughes\Will-Hughes,eng ENG,MFFW,Watford,24,1995,24.1,877,820,57,24,2,165,21,60,31,17,3,7,514,187,176,667,140,42,2,6,642,6,17,24,28,Matches
+203,Pierre Højbjerg\Pierre-Hojbjerg,dk DEN,MF,Southampton,23,1995,30.6,1810,1745,65,41,2,372,51,28,1,0,0,0,1114,310,386,308,1298,132,19,16,1413,3,60,18,35,Matches
+204,Jordon Ibe\Jordon-Ibe,eng ENG,DF,Bournemouth,23,1995,0.6,22,18,4,1,0,4,1,3,1,0,1,0,13,3,6,5,13,2,2,0,17,0,0,0,2,Matches
+205,Adam Idah\Adam-Idah,ie IRL,FWMF,Norwich City,18,2001,2.4,42,40,2,0,0,15,0,0,0,0,0,0,22,17,3,6,28,3,1,2,32,0,1,0,2,Matches
+206,Odion Ighalo\Odion-Ighalo,ng NGA,FW,Manchester Utd,30,1989,1.0,20,20,0,0,0,4,0,0,0,0,0,0,15,3,2,2,17,1,0,0,18,0,0,0,0,Matches
+207,Kelechi Iheanacho\Kelechi-Iheanacho,ng NGA,FWMF,Leicester City,22,1996,10.0,241,235,6,0,7,75,3,2,0,0,0,0,183,40,18,204,23,9,0,3,191,0,3,6,16,Matches
+208,Danny Ings\Danny-Ings,eng ENG,FW,Southampton,27,1992,30.2,643,628,15,0,3,163,16,25,0,0,0,0,331,145,167,83,479,52,1,6,413,7,19,15,32,Matches
+209,Alex Iwobi\Alex-Iwobi,ng NGA,MFFW,Everton,23,1996,17.7,614,603,11,3,5,112,26,48,1,0,0,0,414,104,96,66,528,9,3,3,462,3,12,15,34,Matches
+210,Phil Jagielka\Phil-Jagielka,eng ENG,DF,Sheffield Utd,36,1982,2.7,74,71,3,0,0,11,3,1,0,0,0,0,47,6,21,11,55,2,3,0,59,0,4,0,1,Matches
+211,Alireza Jahanbakhsh\Alireza-Jahanbakhsh,ir IRN,FWMF,Brighton,25,1993,3.4,139,135,4,0,0,21,2,24,1,0,0,0,86,31,22,15,116,4,3,1,84,0,5,3,10,Matches
+212,Daniel James\Daniel-James,wal WAL,FW,Manchester Utd,21,1997,25.4,803,789,14,4,3,183,21,96,3,1,1,0,588,118,97,99,681,14,5,1,586,3,18,15,63,Matches
+213,Matty James\Matty-James,eng ENG,MF,Leicester City,28,1991,0.1,6,6,0,0,0,2,0,0,0,0,0,0,5,1,0,1,5,0,0,0,6,0,0,0,0,Matches
+214,Reece James\Reece-James,eng ENG,DF,Chelsea,19,1999,14.8,1149,966,183,23,2,182,27,98,9,4,5,0,716,216,217,88,858,29,151,4,965,1,21,9,35,Matches
+215,Daryl Janmaat\Daryl-Janmaat,nl NED,DF,Watford,30,1989,6.7,341,287,54,1,0,64,9,23,0,0,0,0,173,90,78,43,237,8,53,0,257,0,7,4,17,Matches
+216,Gabriel Jesus\Gabriel-Jesus,br BRA,FW,Manchester City,22,1997,21.6,569,550,19,0,1,138,7,6,1,0,0,0,431,91,47,68,451,17,4,10,497,1,6,13,16,Matches
+217,Raúl Jiménez\Raul-Jimenez,mx MEX,FW,Wolves,28,1991,35.0,981,944,37,3,7,293,34,22,0,0,0,0,506,290,185,59,780,44,11,43,722,2,19,27,49,Matches
+218,Joelinton\Joelinton,br BRA,FW,Newcastle Utd,22,1996,29.3,790,750,40,1,4,311,11,5,0,0,0,0,482,171,137,124,479,61,5,16,633,3,15,11,20,Matches
+219,Ben Johnson\Ben-Johnson,eng ENG,DF,West Ham,19,2000,1.0,31,24,7,0,0,2,1,2,0,0,0,0,10,4,17,1,18,5,7,0,15,0,2,2,2,Matches
+220,Curtis Jones\Curtis-Jones,eng ENG,MF,Liverpool,18,2001,1.1,110,110,0,0,0,17,3,0,0,0,0,0,92,12,6,13,95,1,0,0,99,0,1,2,1,Matches
+221,Phil Jones\Phil-Jones,eng ENG,DF,Manchester Utd,27,1992,1.5,89,86,3,2,0,22,3,1,0,0,0,0,67,14,8,7,73,3,1,2,79,0,2,1,1,Matches
+222,Jorginho\Jorginho,it ITA,MF,Chelsea,27,1991,24.5,2072,2018,54,49,4,409,62,9,0,0,0,0,1433,313,326,118,1892,43,5,5,1820,6,15,20,18,Matches
+223,Jota\Jota,es ESP,FWMF,Aston Villa,28,1991,3.7,98,93,5,2,3,24,1,2,1,1,0,0,63,14,21,83,10,3,2,0,73,1,1,2,2,Matches
+224,Diogo Jota\Diogo-Jota,pt POR,FWMF,Wolves,22,1996,24.5,829,793,36,0,0,199,21,32,1,0,0,0,565,156,108,247,534,22,5,6,659,4,14,15,46,Matches
+225,James Justin\James-Justin,eng ENG,DF,Leicester City,21,1998,10.2,735,629,106,11,1,101,9,36,0,0,0,0,452,160,123,112,483,35,95,2,594,0,16,7,30,Matches
+226,Christian Kabasele\Christian-Kabasele,be BEL,DF,Watford,28,1991,24.0,607,595,12,10,0,98,24,0,0,0,0,0,323,97,187,46,487,46,2,2,454,1,13,8,7,Matches
+227,Harry Kane\Harry-Kane,eng ENG,FW,Tottenham,26,1993,27.7,579,548,31,5,6,181,17,21,0,0,0,0,308,162,109,61,423,32,6,9,385,2,14,19,33,Matches
+228,N'Golo Kanté\NGolo-Kante,fr FRA,MF,Chelsea,28,1991,19.2,1139,1130,9,7,0,241,18,26,0,0,0,0,817,173,149,149,920,47,1,7,973,5,13,18,34,Matches
+229,Moise Kean\Moise-Kean,it ITA,FW,Everton,19,2000,8.7,131,126,5,1,1,33,2,11,0,0,0,0,79,34,18,21,95,5,1,7,96,0,2,4,11,Matches
+230,Michael Keane\Michael-Keane,eng ENG,DF,Everton,26,1993,27.4,1283,1241,42,38,2,188,36,0,0,0,0,0,898,150,235,194,930,85,4,5,1077,5,34,9,14,Matches
+231,Naby Keïta\Naby-Keita,gn GUI,MF,Liverpool,24,1995,7.4,569,562,7,1,5,89,9,7,2,0,0,0,430,89,50,74,470,15,3,2,506,1,6,8,13,Matches
+232,Lloyd Kelly\Lloyd-Kelly,eng ENG,DF,Bournemouth,20,1998,6.1,208,175,33,6,0,28,0,5,0,0,0,0,121,33,54,148,12,16,27,0,156,1,5,2,6,Matches
+233,Martin Kelly\Martin-Kelly,eng ENG,DF,Crystal Palace,29,1990,17.2,669,541,128,13,0,124,9,20,0,0,0,0,337,143,189,65,448,27,115,1,493,3,16,20,19,Matches
+234,Max Kilman\Max-Kilman,eng ENG,DF,Wolves,22,1997,2.1,90,90,0,0,0,14,1,0,0,0,0,0,67,9,14,76,6,4,0,1,72,2,1,1,1,Matches
+235,Joshua King\Joshua-King,no NOR,FWMF,Bournemouth,27,1992,21.4,469,456,13,1,3,141,4,20,1,0,0,0,305,98,66,44,372,16,2,5,341,2,9,14,29,Matches
+236,Timm Klose\Timm-Klose,ch SUI,DF,Norwich City,31,1988,6.5,389,375,14,11,0,35,10,0,0,0,0,0,287,40,62,114,232,27,3,3,330,1,5,5,4,Matches
+237,Jonathan Kodjia\Jonathan-Kodjia,ci CIV,FWMF,Aston Villa,29,1989,1.3,30,24,6,0,0,7,0,0,0,0,0,0,21,4,5,2,24,1,0,0,19,0,1,1,1,Matches
+238,Sead Kolašinac\Sead-Kolasinac,ba BIH,DF,Arsenal,26,1993,18.5,1015,901,114,3,0,152,10,29,0,0,0,0,693,152,170,727,104,56,111,3,856,4,17,14,25,Matches
+239,Ezri Konsa\Ezri-Konsa,eng ENG,DF,Aston Villa,21,1998,21.7,817,714,103,18,0,114,17,13,0,0,0,0,479,134,204,77,575,42,85,5,649,0,18,10,15,Matches
+240,Cheikhou Kouyaté\Cheikhou-Kouyate,sn SEN,MFDF,Crystal Palace,29,1989,27.1,817,803,14,8,0,199,4,15,0,0,0,0,527,139,151,68,605,69,5,14,620,1,17,15,30,Matches
+241,Mateo Kovačić\Mateo-Kovacic,hr CRO,MF,Chelsea,25,1994,21.1,1743,1699,44,37,5,324,75,8,0,0,0,0,1358,217,168,75,1628,24,7,4,1571,3,14,24,18,Matches
+242,Emil Krafth\Emil-Krafth,se SWE,DF,Newcastle Utd,24,1994,11.3,433,358,75,7,0,51,8,20,0,0,0,0,243,73,117,21,316,20,68,2,316,3,5,11,21,Matches
+243,Tim Krul\Tim-Krul,nl NED,GK,Norwich City,31,1988,35.0,1500,1085,415,104,0,225,36,0,0,0,0,0,678,125,697,969,291,1,1,173,1014,3,43,5,4,Matches
+244,Alexandre Lacazette\Alexandre-Lacazette,fr FRA,FW,Arsenal,28,1991,20.2,490,451,39,1,4,123,9,15,0,0,0,0,330,97,63,73,397,8,0,4,382,0,13,9,23,Matches
+245,Adam Lallana\Adam-Lallana,eng ENG,MFFW,Liverpool,31,1988,4.2,270,268,2,1,0,48,4,3,0,0,0,0,204,38,28,77,170,13,1,3,229,2,0,4,9,Matches
+246,Érik Lamela\Erik-Lamela,ar ARG,MFFW,Tottenham,27,1992,13.5,596,541,55,9,2,143,24,49,40,28,7,1,431,77,88,518,57,13,1,7,469,2,7,16,23,Matches
+247,Tariq Lamptey\Tariq-Lamptey,eng ENG,DF,Chelsea,18,2000,0.4,14,9,5,0,1,0,0,2,0,0,0,0,5,4,5,4,5,0,5,0,12,0,0,0,2,Matches
+248,Tariq Lamptey\Tariq-Lamptey,eng ENG,DF,Brighton,18,2000,5.5,204,162,42,4,0,23,1,16,0,0,0,0,106,44,54,46,109,8,38,2,150,0,7,2,12,Matches
+249,Henri Lansbury\Henri-Lansbury,eng ENG,MF,Aston Villa,28,1990,2.2,81,80,1,0,0,15,6,1,0,0,0,0,46,15,20,7,62,10,0,1,60,0,3,1,3,Matches
+250,Manuel Lanzini\Manuel-Lanzini,ar ARG,MFFW,West Ham,26,1993,15.1,784,723,61,18,3,152,29,42,32,17,11,1,569,118,97,85,668,17,2,9,662,3,11,15,13,Matches
+251,Aymeric Laporte\Aymeric-Laporte,fr FRA,DF,Manchester City,25,1994,11.2,1016,996,20,13,0,120,33,0,0,0,0,0,825,95,96,759,188,39,7,6,949,0,5,4,9,Matches
+252,Jamaal Lascelles\Jamaal-Lascelles,eng ENG,DF,Newcastle Utd,25,1993,23.1,811,796,15,15,1,144,22,0,0,0,0,0,539,89,183,117,579,76,0,2,669,4,10,7,9,Matches
+253,Valentino Lazaro\Valentino-Lazaro,at AUT,DFMF,Newcastle Utd,23,1996,4.3,167,142,25,4,0,24,5,13,11,1,4,5,102,30,35,19,130,5,10,1,138,1,2,4,3,Matches
+254,Moritz Leitner\Moritz-Leitner,de GER,MF,Norwich City,26,1992,7.6,553,527,26,20,2,96,15,5,1,1,0,0,434,60,59,88,449,5,4,3,472,5,7,7,13,Matches
+255,Florian Lejeune\Florian-Lejeune,fr FRA,DF,Newcastle Utd,28,1991,4.9,187,169,18,6,0,41,8,2,0,0,0,0,106,23,58,40,120,7,12,0,136,0,7,3,2,Matches
+256,Aaron Lennon\Aaron-Lennon,eng ENG,MF,Burnley,32,1987,5.5,131,129,2,0,0,32,5,8,1,1,0,0,91,21,19,11,112,4,1,0,92,0,3,2,10,Matches
+257,Bernd Leno\Bernd-Leno,de GER,GK,Arsenal,27,1992,29.4,990,680,310,59,0,127,22,0,0,0,0,0,612,52,326,153,631,4,0,174,742,5,22,3,1,Matches
+258,Jefferson Lerma\Jefferson-Lerma,co COL,MF,Bournemouth,24,1994,29.0,1353,1324,29,24,0,278,37,6,0,0,0,0,803,244,306,141,1060,110,5,2,1072,4,33,20,24,Matches
+259,Jamal Lewis\Jamal-Lewis,nir NIR,DF,Norwich City,21,1998,24.6,1281,1032,249,14,1,213,19,44,0,0,0,0,751,319,211,886,126,25,235,1,1013,3,22,30,53,Matches
+260,Victor Lindelöf\Victor-Lindelof,se SWE,DF,Manchester Utd,25,1994,32.4,1892,1834,58,46,2,267,29,2,0,0,0,0,1482,181,229,238,1511,71,12,14,1661,1,30,24,20,Matches
+261,Jesse Lingard\Jesse-Lingard,eng ENG,MFFW,Manchester Utd,26,1992,10.2,408,388,20,3,1,80,4,7,2,0,0,0,326,54,28,19,365,9,6,8,350,3,5,8,11,Matches
+262,Hugo Lloris\Hugo-Lloris,fr FRA,GK,Tottenham,32,1986,19.1,542,367,175,38,0,49,13,0,0,0,0,0,222,38,282,317,105,0,0,80,374,2,8,1,1,Matches
+263,Giovani Lo Celso\Giovani-Lo-Celso,ar ARG,MFFW,Tottenham,23,1996,15.9,966,886,80,35,2,173,45,54,39,17,9,7,653,161,152,818,108,20,6,8,800,4,10,16,21,Matches
+264,Jürgen Locadia\Jurgen-Locadia,nl NED,MFFW,Brighton,25,1993,1.0,19,19,0,0,0,10,0,1,0,0,0,0,11,3,5,2,14,2,0,0,9,1,0,0,3,Matches
+265,Ruben Loftus-Cheek\Ruben-Loftus-Cheek,eng ENG,MFFW,Chelsea,23,1996,2.2,125,123,2,2,1,11,4,1,0,0,0,0,99,15,11,12,105,6,0,1,111,0,3,2,1,Matches
+266,Kevin Long\Kevin-Long,ie IRL,DF,Burnley,28,1990,5.3,151,148,3,2,0,19,2,0,0,0,0,0,87,16,48,9,106,24,1,0,116,0,5,0,1,Matches
+267,Shane Long\Shane-Long,ie IRL,FW,Southampton,32,1987,15.4,405,400,5,0,0,169,8,20,0,0,0,0,134,146,125,48,184,56,1,24,226,1,15,6,28,Matches
+268,Matthew Longstaff\Matthew-Longstaff,eng ENG,MF,Newcastle Utd,19,2000,6.4,237,232,5,3,0,34,5,2,0,0,0,0,161,30,46,21,200,13,0,0,193,0,4,6,4,Matches
+269,Sean Longstaff\Sean-Longstaff,eng ENG,MF,Newcastle Utd,21,1997,14.8,643,591,52,39,1,114,33,30,11,5,3,0,417,92,134,110,468,51,1,3,503,1,15,7,13,Matches
+270,Dejan Lovren\Dejan-Lovren,hr CRO,DF,Liverpool,30,1989,8.6,603,587,16,15,1,64,16,1,0,0,0,0,411,80,112,114,433,41,1,1,530,0,12,3,5,Matches
+271,Matthew Lowton\Matthew-Lowton,eng ENG,DF,Burnley,30,1989,17.0,726,562,164,12,2,144,20,43,0,0,0,0,294,162,270,51,477,35,152,2,497,5,20,17,19,Matches
+272,David Luiz\David-Luiz,br BRA,DF,Arsenal,32,1987,30.2,1681,1584,97,93,5,249,72,5,0,0,0,0,1213,160,308,404,1203,47,4,10,1455,7,31,9,14,Matches
+273,Douglas Luiz\Douglas-Luiz,br BRA,MF,Aston Villa,21,1998,28.0,1183,1122,61,40,2,173,57,24,3,0,1,0,677,241,265,119,953,68,6,13,958,2,27,14,12,Matches
+274,John Lundstram\John-Lundstram,eng ENG,MF,Sheffield Utd,25,1994,26.3,1172,1150,22,8,4,261,48,54,3,2,0,1,744,224,204,312,783,50,3,6,946,9,27,20,31,Matches
+275,Alexis Mac Allister\Alexis-Mac-Allister,ar ARG,MFFW,Brighton,20,1998,3.1,109,84,25,10,0,23,2,17,11,4,5,1,60,23,26,13,91,3,0,0,72,0,3,2,4,Matches
+276,James Maddison\James-Maddison,eng ENG,MF,Leicester City,22,1996,29.2,1674,1422,252,82,16,267,93,220,157,43,76,15,1051,247,376,158,1462,31,7,11,1282,8,30,36,38,Matches
+277,Harry Maguire\Harry-Maguire,eng ENG,DF,Manchester Utd,26,1993,36.0,2286,2213,73,63,1,344,84,2,0,0,0,0,1701,256,329,304,1775,111,10,10,2022,5,42,20,11,Matches
+278,Riyad Mahrez\Riyad-Mahrez,dz ALG,FWMF,Manchester City,28,1991,21.1,1160,1085,75,11,21,196,49,88,55,25,3,6,865,136,159,1014,113,14,9,2,984,5,16,19,27,Matches
+279,Ainsley Maitland-Niles\Ainsley-Maitland-Niles,eng ENG,DF,Arsenal,21,1997,14.4,931,755,176,16,0,153,12,17,0,0,0,0,580,221,130,120,621,19,160,5,768,1,21,24,29,Matches
+280,Sadio Mané\Sadio-Mane,sn SEN,FW,Liverpool,27,1992,29.3,1108,1088,20,7,10,234,26,49,0,0,0,0,732,227,149,228,796,39,10,13,886,3,16,28,49,Matches
+281,Javier Manquillo\Javier-Manquillo,es ESP,DF,Newcastle Utd,25,1994,16.8,610,480,130,4,0,101,13,45,0,0,0,0,297,124,189,49,385,37,126,2,431,2,14,9,24,Matches
+282,Solly March\Solly-March,eng ENG,DFFW,Brighton,25,1994,11.9,573,495,78,8,0,126,28,61,14,7,3,2,317,103,153,440,45,24,53,3,420,1,12,10,27,Matches
+283,Pablo Marí\Pablo-Mari,es ESP,DF,Arsenal,25,1993,1.3,91,90,1,1,0,4,3,0,0,0,0,0,61,15,15,80,9,2,0,0,81,0,2,0,1,Matches
+284,Adrian Mariappa\Adrian-Mariappa,jm JAM,DF,Watford,32,1986,16.3,552,427,125,7,1,72,12,20,0,0,0,0,241,113,198,44,340,35,118,0,400,2,15,6,8,Matches
+285,Anthony Martial\Anthony-Martial,fr FRA,FW,Manchester Utd,23,1995,27.2,669,642,27,3,5,189,3,10,0,0,0,0,545,88,36,111,524,11,3,5,539,1,7,13,39,Matches
+286,David Martin\David-Martin,eng ENG,GK,West Ham,33,1986,4.8,124,61,63,19,0,14,1,0,0,0,0,0,14,5,105,1,98,0,0,10,55,0,0,1,0,Matches
+287,Josh Martin\Josh-Martin,eng ENG,FW,Norwich City,17,2001,0.4,16,16,0,0,0,7,0,0,0,0,0,0,13,1,2,5,11,0,0,0,12,0,0,1,1,Matches
+288,Martinelli\Martinelli,br BRA,FW,Arsenal,18,2001,7.4,138,136,2,1,1,41,1,22,0,0,0,0,78,32,28,23,102,7,1,1,86,0,0,5,13,Matches
+289,Emiliano Martínez\Emiliano-Martinez,ar ARG,GK,Arsenal,26,1992,7.6,259,185,74,20,1,25,7,0,0,0,0,0,150,8,101,30,168,1,0,39,185,0,14,0,1,Matches
+290,Adam Masina\Adam-Masina,it ITA,DF,Watford,25,1994,19.2,895,686,209,16,0,160,37,66,8,5,1,1,307,163,425,544,60,65,185,4,549,5,23,8,32,Matches
+291,Arthur Masuaku\Arthur-Masuaku,cd COD,DF,West Ham,25,1993,10.2,578,490,88,8,1,139,17,25,0,0,0,0,375,111,92,438,33,23,80,0,463,2,7,10,26,Matches
+292,Juan Mata\Juan-Mata,es ESP,MFFW,Manchester Utd,31,1988,8.4,523,494,29,8,2,116,11,23,10,5,1,2,377,67,79,444,64,4,6,2,442,2,3,6,15,Matches
+293,Nemanja Matić\Nemanja-Matic,rs SRB,MF,Manchester Utd,30,1988,15.6,1077,1050,27,23,1,202,27,3,0,0,0,0,842,116,119,888,131,35,4,4,950,1,11,14,19,Matches
+294,Joël Matip\Joel-Matip,cm CMR,DF,Liverpool,27,1991,7.8,514,498,16,12,0,74,13,1,0,0,0,0,384,62,68,56,417,23,4,1,448,0,14,7,3,Matches
+295,Neal Maupay\Neal-Maupay,fr FRA,FW,Brighton,22,1996,29.7,661,598,63,4,3,178,11,11,0,0,0,0,476,136,49,118,489,21,10,13,518,6,8,19,30,Matches
+296,James McArthur\James-McArthur,sco SCO,MF,Crystal Palace,31,1987,33.6,1422,1352,70,5,4,363,21,41,1,0,0,0,953,216,253,345,948,59,30,11,1109,3,34,22,59,Matches
+297,Oliver McBurnie\Oliver-McBurnie,sco SCO,FW,Sheffield Utd,23,1996,22.9,614,598,16,0,0,260,3,10,0,0,0,0,268,177,169,23,334,92,3,18,399,3,6,14,28,Matches
+298,Alex McCarthy\Alex-McCarthy,eng ENG,GK,Southampton,29,1989,27.0,779,505,274,101,0,89,34,0,0,0,0,0,190,44,545,80,545,0,0,71,410,5,32,4,2,Matches
+299,James McCarthy\James-McCarthy,ie IRL,MF,Crystal Palace,28,1990,17.7,758,693,65,39,0,129,45,30,17,9,6,2,427,127,204,207,483,44,6,10,586,3,25,11,21,Matches
+300,John McGinn\John-McGinn,sco SCO,MF,Aston Villa,24,1994,24.7,747,677,70,29,3,161,72,62,24,15,4,2,432,106,209,532,168,24,4,4,566,7,16,10,22,Matches
+301,David McGoldrick\David-McGoldrick,ie IRL,FW,Sheffield Utd,31,1987,20.2,623,609,14,1,4,167,18,8,0,0,0,0,406,117,100,57,462,37,1,8,475,10,16,10,20,Matches
+302,Michael McGovern\Michael-McGovern,nir NIR,GK,Norwich City,35,1984,1.8,51,32,19,5,0,5,2,0,0,0,0,0,24,1,26,4,36,0,0,10,31,0,1,0,0,Matches
+303,Kenny McLean\Kenny-McLean,sco SCO,MF,Norwich City,27,1992,32.0,1666,1579,87,46,4,375,57,53,20,8,12,0,1065,321,280,1185,309,74,18,8,1308,7,35,36,36,Matches
+304,Dwight McNeil\Dwight-McNeil,eng ENG,MF,Burnley,19,1999,36.1,1228,1108,120,55,4,293,101,242,56,48,4,2,711,155,362,1099,52,43,8,4,837,9,26,23,70,Matches
+305,Scott McTominay\Scott-McTominay,sco SCO,MF,Manchester Utd,22,1996,19.6,995,966,29,28,2,158,47,14,0,0,0,0,745,111,139,44,878,45,1,5,816,2,18,21,25,Matches
+306,Ben Mee\Ben-Mee,eng ENG,DF,Burnley,29,1989,32.0,1172,1114,58,53,0,225,37,2,0,0,0,0,642,149,381,901,135,73,5,4,875,5,36,8,12,Matches
+307,Benjamin Mendy\Benjamin-Mendy,fr FRA,DF,Manchester City,25,1994,16.6,1285,1158,127,13,0,159,33,86,0,0,0,0,900,225,160,1036,103,21,114,1,1108,5,14,18,32,Matches
+308,Nampalys Mendy\Nampalys-Mendy,fr FRA,MF,Leicester City,27,1992,3.2,212,211,1,1,0,29,4,2,0,0,0,0,172,21,19,20,187,4,0,0,194,1,3,2,1,Matches
+309,Chris Mepham\Chris-Mepham,wal WAL,DF,Bournemouth,21,1997,10.1,483,475,8,8,0,86,13,3,0,0,0,0,363,37,83,55,377,29,0,4,414,1,12,4,4,Matches
+310,Max Meyer\Max-Meyer,de GER,MFFW,Crystal Palace,23,1995,7.3,213,211,2,1,1,52,0,9,0,0,0,0,160,31,22,68,132,11,1,0,160,1,1,7,14,Matches
+311,Luka Milivojević\Luka-Milivojevic,rs SRB,MF,Crystal Palace,28,1991,27.9,1503,1255,248,136,1,238,106,145,99,61,25,6,893,208,402,204,1198,62,6,12,1158,2,41,21,21,Matches
+312,James Milner\James-Milner,eng ENG,MFDF,Liverpool,33,1986,9.1,662,604,58,11,4,103,27,17,7,3,1,1,439,123,100,73,534,13,30,3,562,3,11,10,10,Matches
+313,Yerry Mina\Yerry-Mina,co COL,DF,Everton,24,1994,25.4,1251,1216,35,34,0,212,50,4,0,0,0,0,890,140,221,162,967,79,1,1,1070,3,17,13,10,Matches
+314,Takumi Minamino\Takumi-Minamino,jp JPN,FWMF,Liverpool,24,1995,2.0,81,81,0,0,0,22,2,3,0,0,0,0,65,7,9,19,56,1,0,1,71,0,1,0,1,Matches
+315,Tyrone Mings\Tyrone-Mings,eng ENG,DF,Aston Villa,26,1993,31.2,1304,1255,49,46,2,190,57,8,0,0,0,0,880,125,299,1053,152,64,3,3,1040,3,40,15,23,Matches
+316,Tyrick Mitchell\Tyrick-Mitchell,eng ENG,DF,Crystal Palace,19,1999,1.2,67,55,12,0,0,9,0,1,0,0,0,0,42,12,13,54,0,1,12,0,54,0,0,1,3,Matches
+317,Henrikh Mkhitaryan\Henrikh-Mkhitaryan,am ARM,FW,Arsenal,30,1989,1.2,77,73,4,1,2,13,3,4,2,0,2,0,62,6,9,20,52,2,1,0,58,2,3,0,5,Matches
+318,Nacho Monreal\Nacho-Monreal,es ESP,DF,Arsenal,33,1986,3.0,201,175,26,1,0,41,1,4,0,0,0,0,145,38,18,162,11,1,25,1,182,1,0,1,5,Matches
+319,Martín Montoya\Martin-Montoya,es ESP,DF,Brighton,28,1991,21.1,1255,1014,241,13,0,214,36,45,1,0,1,0,642,326,287,142,824,47,227,1,1006,2,7,30,44,Matches
+320,Simon Moore\Simon-Moore,eng ENG,GK,Sheffield Utd,29,1990,2.0,48,25,23,12,0,1,3,0,0,0,0,0,8,1,39,3,33,0,0,4,19,0,3,1,0,Matches
+321,Aaron Mooy\Aaron-Mooy,au AUS,MFFW,Brighton,28,1990,23.0,1064,983,81,22,4,228,47,106,52,22,21,7,665,179,220,183,840,24,6,3,815,7,14,19,43,Matches
+322,Wesley Moraes\Wesley-Moraes,br BRA,FW,Aston Villa,22,1996,19.8,377,361,16,0,0,115,12,7,0,0,0,0,221,94,62,16,282,33,2,10,277,3,6,6,11,Matches
+323,Wes Morgan\Wes-Morgan,jm JAM,DF,Leicester City,35,1984,3.8,201,197,4,4,0,19,0,0,0,0,0,0,173,12,16,25,162,8,0,2,187,2,1,0,1,Matches
+324,Ravel Morrison\Ravel-Morrison,eng ENG,MF,Sheffield Utd,26,1993,0.1,6,6,0,0,0,2,0,0,0,0,0,0,5,1,0,1,5,0,0,0,4,0,0,1,1,Matches
+325,Mason Mount\Mason-Mount,eng ENG,MFFW,Chelsea,20,1999,30.3,1317,1173,144,51,3,249,56,128,78,34,14,10,923,196,198,151,1116,25,9,5,1064,5,19,13,46,Matches
+326,Lucas Moura\Lucas-Moura,br BRA,FWMF,Tottenham,26,1992,23.9,768,752,16,5,5,211,6,17,4,2,1,0,498,152,118,76,613,36,4,3,562,3,8,19,36,Matches
+327,Lys Mousset\Lys-Mousset,fr FRA,FW,Sheffield Utd,23,1996,13.8,239,231,8,0,1,72,1,4,0,0,0,0,173,42,24,24,191,11,1,4,176,1,6,6,11,Matches
+328,João Moutinho\Joao-Moutinho,pt POR,MF,Wolves,32,1986,34.2,2005,1683,322,145,7,335,134,216,166,35,73,12,997,407,601,121,1767,90,5,6,1599,4,33,27,37,Matches
+329,Glenn Murray\Glenn-Murray,eng ENG,FW,Brighton,35,1983,8.8,177,170,7,1,1,52,3,4,0,0,0,0,85,51,41,17,118,15,2,7,116,0,5,1,11,Matches
+330,Shkodran Mustafi\Shkodran-Mustafi,de GER,DF,Arsenal,27,1992,13.4,790,773,17,16,0,109,29,2,0,0,0,0,592,66,132,33,682,48,1,4,663,0,15,4,14,Matches
+331,Yoshinori Mutō\Yoshinori-Muto,jp JPN,FWMF,Newcastle Utd,27,1992,2.4,31,29,2,1,0,11,0,1,0,0,0,0,23,6,2,10,19,0,0,1,26,0,0,0,1,Matches
+332,Georges-Kévin N'Koudou\Georges-Kevin-NKoudou,fr FRA,FW,Tottenham,24,1995,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+333,Marvelous Nakamba\Marvelous-Nakamba,zw ZIM,MF,Aston Villa,25,1994,20.2,788,764,24,20,0,172,17,3,0,0,0,0,597,102,89,634,102,33,3,2,666,2,15,13,11,Matches
+334,Wilfred Ndidi\Wilfred-Ndidi,ng NGA,MF,Leicester City,22,1996,28.7,1611,1588,23,23,1,306,50,3,0,0,0,0,1144,257,210,173,1312,74,0,4,1384,2,34,25,27,Matches
+335,Tanguy Ndombele\Tanguy-Ndombele,fr FRA,MF,Tottenham,22,1996,11.2,629,608,21,15,0,137,13,12,6,1,1,2,507,65,57,59,555,10,0,1,532,4,8,10,19,Matches
+336,Reiss Nelson\Reiss-Nelson,eng ENG,FW,Arsenal,19,1999,6.8,225,207,18,3,1,49,7,23,13,5,6,0,161,33,31,30,190,3,1,1,180,0,2,8,9,Matches
+337,Pedro Neto\Pedro-Neto,pt POR,FWMF,Wolves,19,2000,9.9,382,356,26,7,0,90,12,42,10,0,4,0,253,78,51,289,66,16,2,4,292,1,7,7,20,Matches
+338,Rúben Neves\Ruben-Neves,pt POR,MF,Wolves,22,1997,33.3,1939,1879,60,45,5,305,146,31,9,3,4,0,1116,335,488,151,1665,95,6,4,1560,4,45,20,24,Matches
+339,Jeremy Ngakia\Jeremy-Ngakia,eng ENG,DF,West Ham,18,2000,4.9,161,116,45,0,0,40,3,12,0,0,0,0,54,34,73,18,84,8,45,1,89,0,4,8,9,Matches
+340,Oumar Niasse\Oumar-Niasse,sn SEN,FW,Everton,29,1990,0.2,5,5,0,0,0,2,0,1,0,0,0,0,3,2,0,1,3,0,0,1,3,0,0,1,0,Matches
+341,Eddie Nketiah\Eddie-Nketiah,eng ENG,FW,Arsenal,20,1999,6.7,126,116,10,0,0,19,0,1,0,0,0,0,98,17,11,20,97,6,0,1,97,0,2,3,7,Matches
+342,Mark Noble\Mark-Noble,eng ENG,MF,West Ham,32,1987,27.8,1368,1266,102,55,5,245,63,35,13,9,2,1,800,266,302,99,1196,51,9,2,1103,8,26,25,42,Matches
+343,Oliver Norwood\Oliver-Norwood,nir NIR,MF,Sheffield Utd,28,1991,34.2,2140,1921,219,91,2,351,204,197,121,85,17,8,1117,366,657,75,1907,112,7,4,1658,12,71,24,30,Matches
+344,Ørjan Nyland\Orjan-Nyland,no NOR,GK,Aston Villa,28,1990,6.0,182,111,71,18,0,10,3,0,0,0,0,0,62,13,107,15,133,0,0,28,105,1,8,1,1,Matches
+345,Jack O'Connell\Jack-OConnell,eng ENG,DF,Sheffield Utd,25,1994,32.4,1555,1467,88,30,2,248,71,51,0,0,0,0,875,212,468,1269,61,110,58,4,1156,5,42,9,39,Matches
+346,Michael Obafemi\Michael-Obafemi,ie IRL,FW,Southampton,19,2000,7.4,144,142,2,0,1,50,1,2,0,0,0,0,92,37,15,14,112,7,0,5,112,0,3,6,9,Matches
+347,Angelo Ogbonna\Angelo-Ogbonna,it ITA,DF,West Ham,31,1988,29.0,868,852,16,16,0,162,17,1,0,0,0,0,521,115,232,528,210,71,0,4,680,5,20,2,7,Matches
+348,Divock Origi\Divock-Origi,be BEL,FW,Liverpool,24,1995,7.2,195,194,1,0,0,59,13,18,0,0,0,0,122,33,40,29,143,10,0,3,142,1,5,3,7,Matches
+349,Ben Osborn\Ben-Osborn,eng ENG,MFDF,Sheffield Utd,24,1994,6.6,259,245,14,2,1,64,5,16,3,0,1,1,143,64,52,198,33,11,9,1,179,2,10,4,13,Matches
+350,Nicolás Otamendi\Nicolas-Otamendi,ar ARG,DF,Manchester City,31,1988,19.1,1488,1474,14,10,0,142,35,0,0,0,0,0,1254,100,134,112,1299,38,4,4,1380,2,12,11,13,Matches
+351,Alex Oxlade-Chamberlain\Alex-Oxlade-Chamberlain,eng ENG,MFFW,Liverpool,25,1993,15.7,723,708,15,1,4,131,32,42,0,0,0,0,451,119,153,85,588,26,6,7,573,3,22,16,22,Matches
+352,Mesut Özil\Mesut-Ozil,de GER,MF,Arsenal,30,1988,16.0,891,801,90,30,0,181,17,71,57,15,22,13,644,116,131,778,94,10,0,7,754,5,5,12,22,Matches
+353,Emerson Palmieri\Emerson-Palmieri,it ITA,DF,Chelsea,24,1994,11.3,850,718,132,11,2,146,15,54,21,8,3,2,556,150,144,662,43,31,100,1,704,2,9,9,20,Matches
+354,Sokratis Papastathopoulos\Sokratis-Papastathopoulos,gr GRE,DF,Arsenal,31,1988,18.8,973,932,41,31,0,150,42,1,0,0,0,0,748,103,122,34,893,17,10,2,873,2,10,5,7,Matches
+355,Troy Parrott\Troy-Parrott,ie IRL,MF,Tottenham,17,2002,0.1,5,4,1,0,0,2,0,0,0,0,0,0,3,2,0,2,2,0,1,0,5,0,0,0,0,Matches
+356,Rui Patrício\Rui-Patricio,pt POR,GK,Wolves,31,1988,37.0,841,493,348,73,0,52,34,0,0,0,0,0,218,58,565,463,174,3,0,123,540,3,29,4,2,Matches
+357,Pedro\Pedro,es ESP,FW,Chelsea,32,1987,7.3,329,326,3,1,3,89,9,21,1,0,1,0,221,61,47,101,210,13,1,3,257,0,5,6,12,Matches
+358,João Pedro\Joao-Pedro,br BRA,FW,Watford,17,2001,0.2,11,11,0,0,0,4,0,1,0,0,0,0,9,1,1,2,8,0,0,0,8,0,0,0,1,Matches
+359,Nicolas Pépé\Nicolas-Pepe,ci CIV,FW,Arsenal,24,1995,21.5,777,698,79,11,3,174,30,105,61,24,19,8,554,81,142,659,77,20,7,3,592,1,14,11,36,Matches
+360,Andreas Pereira\Andreas-Pereira,br BRA,MFFW,Manchester Utd,23,1996,16.5,770,692,78,23,1,157,30,62,37,14,12,3,518,125,127,89,634,23,9,3,566,4,11,22,27,Matches
+361,Ricardo Pereira\Ricardo-Pereira,pt POR,DF,Leicester City,25,1993,28.0,1875,1553,322,17,3,335,20,57,0,0,0,0,1095,399,381,195,1312,41,305,4,1513,3,18,46,67,Matches
+362,Roberto Pereyra\Roberto-Pereyra,ar ARG,FWMF,Watford,28,1991,17.3,611,574,37,4,4,116,14,26,19,6,6,1,380,135,96,84,470,33,13,6,502,1,9,15,17,Matches
+363,Ayoze Pérez\Ayoze-Perez,es ESP,MFFW,Leicester City,26,1993,21.9,765,745,20,5,8,198,9,29,0,0,0,0,531,155,79,70,642,18,6,13,609,2,12,13,41,Matches
+364,Jordan Pickford\Jordan-Pickford,eng ENG,GK,Everton,25,1994,37.0,1337,925,412,144,1,131,67,0,0,0,0,0,514,72,751,844,232,0,0,170,862,5,59,5,1,Matches
+365,Brandon Pierrick\Brandon-Pierrick,eng ENG,DFFW,Crystal Palace,17,2001,0.2,9,9,0,0,0,4,0,2,0,0,0,0,6,3,0,0,9,0,0,0,5,0,0,0,3,Matches
+366,Erik Pieters\Erik-Pieters,nl NED,DFMF,Burnley,30,1988,19.9,871,694,177,10,1,179,19,36,1,1,0,0,427,182,262,586,54,41,166,4,643,4,15,14,33,Matches
+367,Daniel Podence\Daniel-Podence,pt POR,FWMF,Wolves,23,1995,2.9,96,93,3,0,1,18,0,4,2,0,1,0,70,11,15,10,83,3,0,0,68,1,3,2,3,Matches
+368,Paul Pogba\Paul-Pogba,fr FRA,MF,Manchester Utd,26,1993,11.4,887,863,24,23,6,199,52,6,0,0,0,0,632,123,132,99,745,20,1,5,756,2,10,12,21,Matches
+369,Nick Pope\Nick-Pope,eng ENG,GK,Burnley,27,1992,37.0,1152,704,448,150,1,104,29,0,1,1,0,0,209,68,875,58,820,2,1,161,519,8,62,5,4,Matches
+370,Dennis Praet\Dennis-Praet,be BEL,MF,Leicester City,25,1994,12.4,532,525,7,3,2,106,10,20,0,0,0,0,353,94,85,38,445,39,3,3,439,1,7,6,18,Matches
+371,Sebastian Prödl\Sebastian-Prodl,at AUT,DF,Watford,32,1987,0.6,10,10,0,0,0,2,0,0,0,0,0,0,3,2,5,1,6,1,0,0,6,0,1,0,0,Matches
+372,Davy Pröpper\Davy-Propper,nl NED,MF,Brighton,27,1991,31.2,1777,1752,25,18,6,322,34,37,0,0,0,0,1289,272,216,146,1542,64,4,7,1477,6,36,40,47,Matches
+373,Teemu Pukki\Teemu-Pukki,fi FIN,FW,Norwich City,29,1990,31.2,512,448,64,0,3,137,3,9,0,0,0,0,373,99,40,94,371,26,2,16,415,0,4,8,24,Matches
+374,Christian Pulisic\Christian-Pulisic,us USA,FW,Chelsea,20,1998,17.9,659,649,10,4,3,203,15,34,4,3,0,0,473,96,90,131,491,25,2,2,518,2,9,8,32,Matches
+375,Ignacio Pussetto\Ignacio-Pussetto,ar ARG,FWDF,Watford,23,1995,0.8,31,27,4,1,0,5,1,4,0,0,0,0,9,9,13,4,18,5,3,0,18,0,1,1,0,Matches
+376,Domingos Quina\Domingos-Quina,pt POR,MF,Watford,19,1999,0.2,9,9,0,0,0,0,0,0,0,0,0,0,8,1,0,0,9,0,0,0,9,0,0,0,0,Matches
+377,Aaron Ramsdale\Aaron-Ramsdale,eng ENG,GK,Bournemouth,21,1998,36.0,1103,687,416,130,1,107,33,1,0,0,0,0,420,51,632,58,793,1,0,184,639,4,46,3,5,Matches
+378,Darren Randolph\Darren-Randolph,ie IRL,GK,West Ham,32,1987,2.0,40,22,18,4,0,1,0,0,0,0,0,0,4,1,35,0,30,0,0,3,22,1,0,0,0,Matches
+379,Marcus Rashford\Marcus-Rashford,eng ENG,FW,Manchester Utd,21,1997,27.4,920,893,27,2,7,159,23,32,9,5,1,2,691,114,115,84,773,26,8,13,706,3,17,26,41,Matches
+380,Nathan Redmond\Nathan-Redmond,eng ENG,MFFW,Southampton,25,1994,29.7,1006,989,17,1,4,291,33,39,0,0,0,0,662,183,161,77,876,32,2,2,740,5,23,28,45,Matches
+381,Pepe Reina\Pepe-Reina,es ESP,GK,Aston Villa,36,1982,11.0,367,238,129,44,0,47,14,0,0,0,0,0,127,27,213,31,266,0,0,45,251,3,11,1,0,Matches
+382,Declan Rice\Declan-Rice,eng ENG,MF,West Ham,20,1999,36.0,1605,1573,32,28,2,312,77,26,0,0,0,0,1104,224,277,285,1196,83,4,2,1376,3,33,21,25,Matches
+383,Richarlison\Richarlison,br BRA,FW,Everton,22,1997,33.1,786,763,23,2,4,253,11,55,2,0,1,0,473,191,122,180,512,42,7,6,513,2,28,22,74,Matches
+384,Diego Rico\Diego-Rico,es ESP,DF,Bournemouth,26,1993,24.9,1427,1065,362,56,4,202,37,160,67,36,20,6,625,357,445,1016,68,83,239,2,972,5,39,35,62,Matches
+385,Jaïro Riedewald\Jairo-Riedewald,nl NED,DFMF,Crystal Palace,22,1996,8.3,387,311,76,11,0,55,6,5,0,0,0,0,218,69,100,269,27,22,65,0,290,1,7,11,3,Matches
+386,Matt Ritchie\Matt-Ritchie,sco SCO,DFMF,Newcastle Utd,29,1989,13.6,642,499,143,26,0,128,46,97,56,22,24,3,323,135,184,440,105,22,61,4,445,3,9,9,29,Matches
+387,Roberto\Roberto,es ESP,GK,West Ham,33,1986,7.6,232,155,77,36,0,14,2,0,0,0,0,0,53,13,166,7,181,0,0,26,113,1,4,0,0,Matches
+388,Patrick Roberts\Patrick-Roberts,eng ENG,MFFW,Norwich City,22,1997,0.3,10,9,1,0,0,1,1,0,0,0,0,0,7,2,1,9,1,0,0,0,7,0,0,1,0,Matches
+389,Andrew Robertson\Andrew-Robertson,sco SCO,DF,Liverpool,25,1994,32.6,2708,2348,360,44,5,308,81,191,37,7,21,1,1688,491,529,2153,170,89,279,2,2189,4,41,35,74,Matches
+390,Callum Robinson\Callum-Robinson,ie IRL,FW,Sheffield Utd,24,1995,7.5,155,146,9,0,1,38,9,15,0,0,0,0,105,26,24,31,114,4,1,2,117,0,5,3,7,Matches
+391,Jack Robinson\Jack-Robinson,eng ENG,DF,Sheffield Utd,25,1993,4.6,228,203,25,7,1,18,9,5,0,0,0,0,148,18,62,162,29,13,18,1,176,0,8,1,5,Matches
+392,Rodri\Rodri,es ESP,MF,Manchester City,23,1996,27.1,2490,2459,31,29,0,477,100,8,0,0,0,0,1942,269,279,331,2020,84,2,12,2319,1,21,17,19,Matches
+393,Jay Rodriguez\Jay-Rodriguez,eng ENG,FW,Burnley,30,1989,21.5,484,471,13,2,1,148,9,12,0,0,0,0,239,151,94,20,347,44,0,18,342,0,6,10,24,Matches
+394,Jack Rodwell\Jack-Rodwell,eng ENG,MF,Sheffield Utd,28,1991,0.2,2,2,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,2,0,0,0,0,Matches
+395,Marcos Rojo\Marcos-Rojo,ar ARG,DF,Manchester Utd,29,1990,1.4,55,45,10,2,0,6,2,3,0,0,0,0,25,12,18,39,5,1,8,0,37,0,3,0,0,Matches
+396,Oriol Romeu\Oriol-Romeu,es ESP,MF,Southampton,27,1991,19.7,938,921,17,16,3,203,18,6,0,0,0,0,600,153,185,180,652,71,1,7,775,1,11,13,11,Matches
+397,Danny Rose\Danny-Rose,eng ENG,DF,Newcastle Utd,29,1990,8.8,399,340,59,13,0,43,8,7,0,0,0,0,237,80,82,286,47,15,46,0,310,2,6,5,13,Matches
+398,Danny Rose\Danny-Rose,eng ENG,DF,Tottenham,29,1990,9.9,572,480,92,17,0,69,5,39,1,0,1,0,353,91,128,412,67,13,74,0,435,3,1,15,22,Matches
+399,Antonio Rüdiger\Antonio-Rudiger,de GER,DF,Chelsea,26,1993,17.0,1317,1289,28,21,0,172,57,7,0,0,0,0,959,148,210,231,1002,44,7,5,1164,4,23,5,13,Matches
+400,Lukas Rupp\Lukas-Rupp,de GER,FWMF,Norwich City,28,1991,6.7,231,224,7,2,2,54,2,2,0,0,0,0,138,55,38,43,173,8,3,0,171,0,3,8,13,Matches
+401,Mathew Ryan\Mathew-Ryan,au AUS,GK,Brighton,27,1992,37.0,1425,1107,318,57,0,218,47,0,0,0,0,0,789,97,539,170,968,3,0,229,1145,7,47,5,5,Matches
+402,Allan Saint-Maximin\Allan-Saint-Maximin,fr FRA,MFFW,Newcastle Utd,22,1997,20.2,484,476,8,1,3,120,19,43,0,0,0,0,334,84,66,59,403,8,6,2,351,3,8,12,28,Matches
+403,Romain Saïss\Romain-Saiss,ma MAR,DF,Wolves,29,1990,29.1,1513,1466,47,37,1,186,61,9,0,0,0,0,937,220,356,1212,133,94,10,5,1230,4,30,18,30,Matches
+404,Bukayo Saka\Bukayo-Saka,eng ENG,DFFW,Arsenal,17,2001,19.5,844,718,126,13,2,176,19,67,11,3,4,3,529,178,137,575,144,16,102,0,659,4,20,20,37,Matches
+405,Mamadou Sakho\Mamadou-Sakho,fr FRA,DF,Crystal Palace,29,1990,10.3,516,498,18,17,0,70,10,0,0,0,0,0,390,49,77,384,94,21,1,4,451,1,3,3,5,Matches
+406,Mohamed Salah\Mohamed-Salah,eg EGY,FW,Liverpool,27,1992,30.8,952,900,52,4,12,233,19,44,28,3,15,3,675,152,125,748,161,16,8,10,707,3,15,26,46,Matches
+407,Mbwana Samatta\Mbwana-Samatta,tz TAN,FW,Aston Villa,26,1992,9.7,162,154,8,0,1,45,1,3,0,0,0,0,85,32,45,21,91,19,1,6,119,0,3,3,5,Matches
+408,Carlos Sánchez\Carlos-Sanchez,co COL,MFDF,West Ham,33,1986,1.3,55,55,0,0,0,15,1,0,0,0,0,0,28,13,14,14,32,5,0,2,45,0,0,1,1,Matches
+409,Davinson Sánchez\Davinson-Sanchez,co COL,DF,Tottenham,23,1996,27.0,1496,1457,39,24,0,218,42,2,0,0,0,0,1142,160,194,201,1181,70,15,4,1298,2,17,13,20,Matches
+410,Leroy Sané\Leroy-Sane,de GER,FW,Manchester City,23,1996,0.1,7,7,0,0,0,0,0,0,0,0,0,0,7,0,0,6,1,0,0,0,6,0,0,0,0,Matches
+411,Ismaila Sarr\Ismaila-Sarr,sn SEN,FWMF,Watford,21,1998,21.5,558,549,9,2,3,138,10,88,1,0,1,0,367,112,79,38,487,13,1,5,402,3,12,14,26,Matches
+412,Fabian Schär\Fabian-Schar,ch SUI,DFMF,Newcastle Utd,27,1991,18.6,767,697,70,48,0,125,72,12,0,0,0,0,400,107,260,97,593,40,22,0,576,8,20,8,10,Matches
+413,Ezequiel Schelotto\Ezequiel-Schelotto,it ITA,DF,Brighton,30,1989,4.0,169,129,40,1,0,31,3,16,0,0,0,0,71,57,41,12,105,8,39,0,121,0,3,3,7,Matches
+414,Jeffrey Schlupp\Jeffrey-Schlupp,gh GHA,MFDF,Crystal Palace,26,1992,10.6,309,289,20,3,1,74,7,8,0,0,0,0,195,54,60,206,54,14,17,3,230,3,4,8,10,Matches
+415,Kasper Schmeichel\Kasper-Schmeichel,dk DEN,GK,Leicester City,32,1986,37.0,1143,797,346,111,1,110,65,0,0,0,0,0,601,100,442,55,888,3,0,150,882,6,41,4,3,Matches
+416,Morgan Schneiderlin\Morgan-Schneiderlin,fr FRA,MF,Everton,29,1989,11.1,567,550,17,10,0,97,30,8,0,0,0,0,338,117,112,77,452,22,0,3,494,0,4,6,9,Matches
+417,Ryan Sessegnon\Ryan-Sessegnon,eng ENG,DF,Tottenham,19,2000,3.8,195,168,27,2,0,39,5,13,1,0,1,0,119,42,34,151,11,4,24,0,145,0,1,4,8,Matches
+418,Xherdan Shaqiri\Xherdan-Shaqiri,ch SUI,FW,Liverpool,27,1991,2.1,109,96,13,2,0,21,3,6,6,3,1,0,62,26,21,82,17,2,5,0,90,2,0,4,2,Matches
+419,Billy Sharp\Billy-Sharp,eng ENG,FW,Sheffield Utd,33,1986,10.9,210,205,5,0,0,68,2,12,0,0,0,0,127,56,27,19,162,16,0,5,154,1,3,7,11,Matches
+420,Luke Shaw\Luke-Shaw,eng ENG,DF,Manchester Utd,24,1995,19.3,1296,1137,159,19,1,242,14,37,5,4,0,0,910,203,183,972,111,55,135,3,1121,1,12,19,37,Matches
+421,Jonjo Shelvey\Jonjo-Shelvey,eng ENG,MF,Newcastle Utd,27,1992,22.5,1059,936,123,49,5,223,108,86,60,26,24,4,555,154,350,110,902,30,2,4,769,11,22,18,19,Matches
+422,Djibril Sidibé\Djibril-Sidibe,fr FRA,DF,Everton,27,1992,19.9,1117,923,194,17,0,182,32,67,1,0,0,0,632,260,225,137,735,46,176,2,867,4,20,26,43,Matches
+423,Gylfi Sigurðsson\Gylfi-Sigurdsson,is ISL,MF,Everton,29,1989,27.4,1049,918,131,41,3,155,48,129,71,29,35,5,664,175,210,166,821,36,3,6,812,3,20,13,34,Matches
+424,Bernardo Silva\Bernardo-Silva,pt POR,FWMF,Manchester City,24,1994,22.5,1448,1392,56,10,3,251,24,71,19,1,1,0,1100,210,138,1278,95,40,24,2,1261,2,6,15,39,Matches
+425,David Silva\David-Silva,es ESP,MF,Manchester City,33,1986,19.4,1456,1399,57,18,11,262,11,35,10,1,2,0,1183,175,98,1248,177,16,5,4,1270,6,12,33,38,Matches
+426,Jack Simpson\Jack-Simpson,eng ENG,DF,Bournemouth,22,1997,2.7,100,86,14,0,0,17,3,0,0,0,0,0,53,27,20,68,15,1,14,0,70,1,8,3,3,Matches
+427,Moussa Sissoko\Moussa-Sissoko,fr FRA,MF,Tottenham,29,1989,26.4,1242,1177,65,19,2,189,22,23,0,0,0,0,927,184,131,122,991,47,46,12,1070,3,14,24,23,Matches
+428,Oliver Skipp\Oliver-Skipp,eng ENG,MFDF,Tottenham,18,2000,0.7,29,29,0,0,0,4,0,0,0,0,0,0,23,2,4,1,24,4,0,0,27,0,1,1,0,Matches
+429,William Smallbone\William-Smallbone,ie IRL,MF,Southampton,19,2000,3.7,179,172,7,1,0,33,5,4,0,0,0,0,122,27,30,25,146,4,1,1,149,0,3,2,4,Matches
+430,Adam Smith\Adam-Smith,eng ENG,DF,Bournemouth,28,1991,21.8,1027,832,195,21,1,177,11,25,1,1,0,0,587,191,249,64,715,48,173,2,819,3,21,13,36,Matches
+431,Emile Smith-Rowe\Emile-Smith-Rowe,eng ENG,MF,Arsenal,19,2000,1.1,36,36,0,0,0,8,1,1,0,0,0,0,27,6,3,3,32,1,0,0,30,0,1,1,1,Matches
+432,Robert Snodgrass\Robert-Snodgrass,sco SCO,MFFW,West Ham,31,1987,16.8,635,529,106,32,2,113,37,135,72,27,24,19,326,103,206,541,53,29,1,2,435,3,6,15,24,Matches
+433,Cédric Soares\Cedric-Soares,pt POR,DF,Southampton,27,1991,14.5,724,527,197,11,0,117,19,52,0,0,0,0,271,208,245,64,414,44,186,3,522,3,12,11,14,Matches
+434,Cédric Soares\Cedric-Soares,pt POR,DF,Arsenal,27,1991,2.8,133,112,21,3,0,16,6,18,0,0,0,0,66,29,38,19,83,10,18,1,94,0,1,1,7,Matches
+435,Dominic Solanke\Dominic-Solanke,eng ENG,FWMF,Bournemouth,21,1997,17.6,414,389,25,1,0,131,3,5,0,0,0,0,261,90,63,39,296,35,1,9,309,1,6,9,18,Matches
+436,Tomáš Souček\Tomas-Soucek,cz CZE,MF,West Ham,24,1995,9.6,327,321,6,3,0,86,11,2,1,1,0,0,178,59,90,38,216,33,2,0,220,1,5,4,11,Matches
+437,Çağlar Söyüncü\Caglar-Soyuncu,tr TUR,DF,Leicester City,23,1996,33.7,2239,2187,52,44,0,261,53,4,0,0,0,0,1801,194,244,437,1653,84,8,9,2035,8,24,10,19,Matches
+438,Dennis Srbeny\Dennis-Srbeny,de GER,MFFW,Norwich City,25,1994,0.5,23,23,0,0,0,4,0,0,0,0,0,0,16,6,1,6,12,3,0,1,17,0,1,0,1,Matches
+439,Jack Stacey\Jack-Stacey,eng ENG,DF,Bournemouth,23,1996,17.2,780,625,155,6,0,156,8,34,1,1,0,0,373,190,217,65,497,54,148,1,560,3,13,19,37,Matches
+440,Junior Stanislas\Junior-Stanislas,eng ENG,MFDF,Bournemouth,29,1989,7.6,293,258,35,12,1,57,11,37,16,8,5,1,176,58,59,23,249,4,6,2,211,1,7,3,13,Matches
+441,Jed Steer\Jed-Steer,eng ENG,GK,Aston Villa,26,1992,0.1,2,1,1,0,0,0,0,0,0,0,0,0,1,0,1,2,0,0,0,0,1,0,0,0,0,Matches
+442,Dale Stephens\Dale-Stephens,eng ENG,MF,Brighton,30,1989,27.1,1601,1585,16,11,4,293,55,4,0,0,0,0,1078,275,248,171,1342,62,4,6,1388,4,22,26,24,Matches
+443,Jack Stephens\Jack-Stephens,eng ENG,DF,Southampton,25,1994,26.2,1101,1053,48,35,3,180,34,5,0,0,0,0,641,114,346,58,918,90,13,2,820,5,37,8,22,Matches
+444,Raheem Sterling\Raheem-Sterling,eng ENG,FW,Manchester City,24,1994,28.5,1176,1157,19,1,4,279,4,50,0,0,0,0,926,148,102,131,988,19,13,14,948,1,12,33,55,Matches
+445,Enda Stevens\Enda-Stevens,ie IRL,DF,Sheffield Utd,29,1990,36.2,1871,1551,320,7,1,350,28,118,0,0,0,0,1009,421,441,1331,135,70,313,2,1388,6,32,37,88,Matches
+446,Marco Stiepermann\Marco-Stiepermann,de GER,MF,Norwich City,28,1991,12.3,381,361,20,0,3,112,4,6,0,0,0,0,272,60,49,321,36,14,2,2,279,0,9,9,23,Matches
+447,John Stones\John-Stones,eng ENG,DF,Manchester City,25,1994,12.5,1016,1001,15,11,0,136,36,0,0,0,0,0,847,72,97,103,839,43,4,3,966,1,4,2,4,Matches
+448,Isaac Success\Isaac-Success,ng NGA,FWMF,Watford,23,1996,0.8,21,21,0,0,0,12,0,2,0,0,0,0,12,7,2,1,15,1,0,3,14,0,0,1,2,Matches
+449,Ki Sung-yueng\Ki-Sung-yueng,kr KOR,MF,Newcastle Utd,30,1989,1.5,67,61,6,3,0,13,8,4,3,3,0,0,45,11,11,5,57,3,0,0,59,0,0,1,0,Matches
+450,Andrew Surman\Andrew-Surman,eng ENG,MF,Bournemouth,32,1986,2.6,127,118,9,7,0,20,7,3,2,1,1,0,69,29,29,95,13,15,0,0,102,0,2,1,1,Matches
+451,Sam Surridge\Sam-Surridge,eng ENG,FW,Bournemouth,21,1998,0.3,10,10,0,0,1,4,0,1,0,0,0,0,4,2,4,1,4,2,0,0,4,1,0,0,0,Matches
+452,Japhet Tanganga\Japhet-Tanganga,eng ENG,DF,Tottenham,20,1999,5.8,232,195,37,4,0,38,5,2,0,0,0,0,135,59,38,21,151,13,33,1,188,0,5,3,11,Matches
+453,Matt Targett\Matt-Targett,eng ENG,DF,Aston Villa,23,1995,24.5,1172,948,224,32,0,212,33,80,10,7,0,2,586,273,313,765,129,74,182,5,861,4,25,16,41,Matches
+454,James Tarkowski\James-Tarkowski,eng ENG,DF,Burnley,26,1992,37.0,1211,1187,24,21,0,239,30,4,0,0,0,0,597,206,408,149,814,126,3,6,881,6,48,12,19,Matches
+455,Charlie Taylor\Charlie-Taylor,eng ENG,DF,Burnley,25,1993,21.6,1035,754,281,11,2,157,25,88,0,0,0,0,356,260,419,660,19,57,270,2,726,5,28,9,48,Matches
+456,Neil Taylor\Neil-Taylor,wal WAL,DF,Aston Villa,30,1989,12.1,513,414,99,6,0,94,4,9,0,0,0,0,286,128,99,276,123,16,93,0,410,2,9,5,14,Matches
+457,Nathan Tella\Nathan-Tella,eng ENG,FW,Southampton,20,1999,0.0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Matches
+458,Alexander Tettey\Alexander-Tettey,no NOR,MFDF,Norwich City,33,1986,26.0,1242,1229,13,11,1,280,19,4,1,0,0,0,968,144,130,163,963,79,1,9,1100,0,12,11,13,Matches
+459,Luke Thomas\Luke-Thomas,eng ENG,DF,Leicester City,,,2.0,140,123,17,1,0,9,2,12,0,0,0,0,95,25,20,106,13,5,16,0,118,0,1,1,4,Matches
+460,Max Thompson\Max-Thompson,eng ENG,FW,Burnley,17,2002,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+461,Youri Tielemans\Youri-Tielemans,be BEL,MF,Leicester City,22,1997,30.6,1762,1665,97,44,9,363,62,79,39,7,19,4,1215,253,294,308,1361,45,12,14,1423,9,21,18,37,Matches
+462,Kieran Tierney\Kieran-Tierney,sco SCO,DF,Arsenal,22,1997,10.0,511,428,83,7,1,72,12,42,0,0,0,0,285,108,118,352,49,29,76,0,389,3,15,4,21,Matches
+463,James Tomkins\James-Tomkins,eng ENG,DF,Crystal Palace,30,1989,17.6,626,597,29,26,0,106,24,1,0,0,0,0,377,96,153,81,474,34,3,0,505,2,14,6,5,Matches
+464,Fikayo Tomori\Fikayo-Tomori,eng ENG,DF,Chelsea,21,1997,14.3,1098,1078,20,10,1,130,15,4,0,0,0,0,884,73,141,274,765,35,10,0,981,0,17,6,14,Matches
+465,Lucas Torreira\Lucas-Torreira,uy URU,MF,Arsenal,23,1996,16.6,899,861,38,24,1,180,10,12,12,3,3,3,611,145,143,87,742,59,2,2,786,2,7,10,17,Matches
+466,Cenk Tosun\Cenk-Tosun,tr TUR,FW,Crystal Palace,28,1991,2.0,47,47,0,0,1,19,0,2,0,0,0,0,23,11,13,13,27,2,0,1,29,2,2,3,2,Matches
+467,Cenk Tosun\Cenk-Tosun,tr TUR,FW,Everton,28,1991,3.2,62,61,1,0,0,19,3,2,0,0,0,0,28,21,13,17,34,6,0,3,42,0,2,2,5,Matches
+468,Andros Townsend\Andros-Townsend,eng ENG,MF,Crystal Palace,28,1991,13.4,422,399,23,5,1,110,18,57,7,5,0,0,262,62,98,306,104,1,8,1,296,2,10,5,22,Matches
+469,Adama Traoré\Adama-Traore,es ESP,FWMF,Wolves,23,1996,28.4,921,871,50,0,3,254,36,182,0,0,0,0,509,161,251,83,729,19,50,7,604,1,19,20,70,Matches
+470,Mark Travers\Mark-Travers,ie IRL,GK,Bournemouth,20,1999,1.0,32,23,9,1,0,4,0,0,0,0,0,0,16,3,13,3,24,0,0,5,23,0,1,0,0,Matches
+471,Trézéguet\Trezeguet,eg EGY,FWMF,Aston Villa,24,1994,20.7,437,417,20,2,1,87,22,64,10,5,2,0,251,86,100,22,356,27,8,9,293,2,16,11,22,Matches
+472,Leandro Trossard\Leandro-Trossard,be BEL,FWMF,Brighton,24,1994,22.3,795,752,43,17,3,171,44,76,10,5,4,1,447,173,175,174,583,15,13,8,567,3,15,22,45,Matches
+473,Tom Trybull\Tom-Trybull,de GER,MF,Norwich City,26,1993,12.6,597,578,19,19,0,128,16,0,0,0,0,0,463,79,55,78,481,29,0,1,551,0,6,0,5,Matches
+474,Axel Tuanzebe\Axel-Tuanzebe,eng ENG,DF,Manchester Utd,21,1997,2.1,141,129,12,1,0,16,3,1,0,0,0,0,104,24,13,18,104,5,11,1,127,0,0,1,2,Matches
+475,Yan Valery\Yan-Valery,fr FRA,DF,Southampton,20,1999,8.7,318,222,96,2,0,65,7,12,0,0,0,0,121,84,113,14,181,15,94,1,198,0,20,7,16,Matches
+476,Jesús Vallejo\Jesus-Vallejo,es ESP,DF,Wolves,22,1997,1.8,104,103,1,1,0,13,3,0,0,0,0,0,70,11,23,5,94,2,0,0,81,0,5,1,1,Matches
+477,Jamie Vardy\Jamie-Vardy,eng ENG,FW,Leicester City,32,1987,32.7,449,392,57,0,2,95,7,31,0,0,0,0,266,98,85,80,292,37,5,7,304,0,10,11,27,Matches
+478,Indiana Vassilev\Indiana-Vassilev,us USA,FWMF,Aston Villa,18,2001,0.6,11,10,1,0,0,5,0,0,0,0,0,0,9,0,2,6,3,1,1,0,8,0,0,1,1,Matches
+479,Jan Vertonghen\Jan-Vertonghen,be BEL,DF,Tottenham,32,1987,18.3,1112,1009,103,38,0,166,28,18,0,0,0,0,764,147,201,726,249,47,65,1,930,1,9,13,23,Matches
+480,Jannik Vestergaard\Jannik-Vestergaard,dk DEN,DF,Southampton,26,1992,15.6,704,659,45,19,2,121,19,1,0,0,0,0,456,76,172,208,385,56,26,3,558,1,22,3,5,Matches
+481,Rúben Vinagre\Ruben-Vinagre,pt POR,DF,Wolves,20,1999,6.9,336,265,71,5,0,64,8,30,0,0,0,0,168,91,77,235,23,6,66,1,250,0,9,4,21,Matches
+482,Jake Vokins\Jake-Vokins,eng ENG,DF,Southampton,19,2000,1.0,73,61,12,1,1,11,1,1,0,0,0,0,31,19,23,48,10,2,11,2,60,0,0,1,1,Matches
+483,Mario Vrančić\Mario-Vrancic,ba BIH,MF,Norwich City,30,1989,6.9,426,414,12,9,2,94,9,4,1,1,0,0,271,70,85,319,69,25,2,2,335,3,4,10,6,Matches
+484,Matěj Vydra\Matej-Vydra,cz CZE,FW,Burnley,27,1992,9.0,136,133,3,0,0,47,0,3,0,0,0,0,71,48,17,21,78,19,1,2,100,0,5,1,5,Matches
+485,Theo Walcott\Theo-Walcott,eng ENG,MFFW,Everton,30,1989,13.7,378,368,10,1,3,60,8,39,2,1,1,0,224,89,65,26,317,21,7,2,246,0,11,21,27,Matches
+486,Kyle Walker\Kyle-Walker,eng ENG,DF,Manchester City,29,1990,25.6,2057,1842,215,26,2,249,78,52,1,0,0,0,1443,343,271,53,1727,52,188,17,1803,4,24,27,45,Matches
+487,Kyle Walker-Peters\Kyle-Walker-Peters,eng ENG,DF,Tottenham,22,1997,2.7,214,187,27,4,0,32,3,8,0,0,0,0,154,33,27,15,171,5,23,0,183,1,1,3,6,Matches
+488,Kyle Walker-Peters\Kyle-Walker-Peters,eng ENG,DF,Southampton,22,1997,6.8,364,275,89,7,1,45,3,11,0,0,0,0,204,64,96,27,241,11,82,1,277,0,5,2,15,Matches
+489,Aaron Wan-Bissaka\Aaron-Wan-Bissaka,eng ENG,DF,Manchester Utd,21,1997,32.6,1979,1603,376,16,0,282,15,99,0,0,0,0,1264,398,317,79,1481,43,360,2,1599,5,23,35,91,Matches
+490,Victor Wanyama\Victor-Wanyama,ke KEN,MF,Tottenham,28,1991,0.3,19,17,2,1,0,2,1,0,0,0,0,0,12,4,3,0,16,2,1,0,18,0,0,0,0,Matches
+491,Joel Ward\Joel-Ward,eng ENG,DF,Crystal Palace,29,1989,25.5,1201,932,269,14,0,210,19,33,0,0,0,0,580,316,305,91,754,68,255,10,893,5,33,27,50,Matches
+492,James Ward-Prowse\James-Ward-Prowse,eng ENG,MFDF,Southampton,24,1994,37.0,1874,1527,347,82,5,271,94,251,173,76,71,19,969,314,591,157,1454,148,53,10,1380,4,29,25,40,Matches
+493,Adam Webster\Adam-Webster,eng ENG,DF,Brighton,24,1995,28.6,1788,1705,83,51,1,294,46,6,0,0,0,0,1251,237,300,325,1275,101,31,5,1524,5,25,19,16,Matches
+494,Danny Welbeck\Danny-Welbeck,eng ENG,FWMF,Watford,28,1990,8.1,151,146,5,0,0,42,1,1,1,0,1,0,101,28,22,8,115,10,0,2,115,0,1,2,6,Matches
+495,Ashley Westwood\Ashley-Westwood,eng ENG,MF,Burnley,29,1990,34.0,1778,1584,194,62,10,275,82,139,89,78,1,2,958,317,503,101,1589,65,3,5,1321,10,38,19,35,Matches
+496,Connor Wickham\Connor-Wickham,eng ENG,FWMF,Crystal Palace,26,1993,1.1,44,42,2,0,0,17,2,0,0,0,0,0,13,15,16,5,16,12,1,1,29,0,0,1,3,Matches
+497,Georginio Wijnaldum\Georginio-Wijnaldum,nl NED,MF,Liverpool,28,1990,30.9,1509,1484,25,12,4,265,28,5,0,0,0,0,1207,180,122,163,1257,45,13,7,1366,1,8,17,27,Matches
+498,Jetro Willems\Jetro-Willems,nl NED,DF,Newcastle Utd,25,1994,16.6,582,450,132,10,0,98,13,32,1,1,0,0,306,95,181,336,91,21,121,3,408,4,9,17,27,Matches
+499,Brandon Williams\Brandon-Williams,eng ENG,DF,Manchester Utd,18,2000,9.2,489,428,61,5,1,70,5,11,1,0,0,0,345,78,66,132,283,11,55,1,400,3,7,12,11,Matches
+500,Neco Williams\Neco-Williams,wal WAL,DF,Liverpool,18,2001,1.6,140,113,27,2,1,10,8,12,3,1,2,0,75,27,38,5,107,5,22,0,114,0,4,2,5,Matches
+501,Willian\Willian,br BRA,FW,Chelsea,30,1988,28.2,1572,1436,136,16,4,337,82,173,110,27,55,10,1058,244,270,183,1333,36,8,4,1228,4,17,21,48,Matches
+502,Joe Willock\Joe-Willock,eng ENG,MFFW,Arsenal,19,1999,8.9,353,343,10,1,0,66,8,7,6,1,0,0,260,44,49,40,288,14,2,4,288,4,6,6,7,Matches
+503,Jack Wilshere\Jack-Wilshere,eng ENG,MF,West Ham,27,1992,2.4,73,69,4,3,0,15,0,0,0,0,0,0,53,10,10,60,5,1,0,2,61,0,2,2,1,Matches
+504,Callum Wilson\Callum-Wilson,eng ENG,FW,Bournemouth,27,1992,31.3,510,483,27,0,5,158,9,21,0,0,0,0,268,155,87,52,372,30,1,17,328,2,8,9,46,Matches
+505,Harry Wilson\Harry-Wilson,wal WAL,MFFW,Bournemouth,22,1997,18.3,606,549,57,10,7,134,30,35,20,12,0,1,366,120,120,510,60,19,9,3,452,0,11,17,34,Matches
+506,Harry Winks\Harry-Winks,eng ENG,MF,Tottenham,23,1996,23.7,1587,1519,68,40,5,235,45,26,7,3,2,1,1225,172,190,200,1329,39,5,5,1406,2,15,21,12,Matches
+507,Chris Wood\Chris-Wood,nz NZL,FW,Burnley,27,1991,26.1,468,457,11,0,0,159,4,8,0,0,0,0,200,151,117,60,242,66,1,20,303,4,11,13,14,Matches
+508,Granit Xhaka\Granit-Xhaka,ch SUI,MF,Arsenal,26,1992,27.7,1819,1756,63,51,3,364,75,16,0,0,0,0,1281,277,261,1429,268,78,12,4,1599,8,19,24,25,Matches
+509,Andriy Yarmolenko\Andriy-Yarmolenko,ua UKR,MFFW,West Ham,29,1989,10.5,405,395,10,4,1,89,19,19,3,2,0,1,271,65,69,295,89,15,3,1,324,0,8,6,12,Matches
+510,DeAndre Yedlin\DeAndre-Yedlin,us USA,DF,Newcastle Utd,26,1993,10.4,316,274,42,1,0,49,5,26,0,0,0,0,142,73,101,14,234,20,41,3,228,0,7,3,10,Matches
+511,Maya Yoshida\Maya-Yoshida,jp JPN,DF,Southampton,30,1988,6.2,247,239,8,5,0,32,8,0,0,0,0,0,171,24,52,49,174,14,3,4,207,1,7,3,3,Matches
+512,Ashley Young\Ashley-Young,eng ENG,DF,Manchester Utd,34,1985,10.6,735,553,182,28,1,114,39,62,35,13,14,6,406,130,199,86,502,17,119,5,565,4,21,17,19,Matches
+513,Pablo Zabaleta\Pablo-Zabaleta,ar ARG,DF,West Ham,34,1985,6.6,326,258,68,4,0,32,3,15,0,0,0,0,158,56,112,27,201,29,64,0,247,0,3,3,14,Matches
+514,Wilfried Zaha\Wilfried-Zaha,ci CIV,MFFW,Crystal Palace,26,1992,35.4,1159,1130,29,1,2,308,30,67,0,0,0,0,914,148,97,147,961,12,25,3,910,2,12,33,70,Matches
+515,Christoph Zimmermann\Christoph-Zimmermann,de GER,DF,Norwich City,26,1993,14.9,593,573,20,17,0,124,15,0,0,0,0,0,365,80,148,77,468,31,3,2,485,0,12,5,8,Matches
+516,Oleksandr Zinchenko\Oleksandr-Zinchenko,ua UKR,DF,Manchester City,22,1996,14.2,1348,1232,116,9,2,157,20,53,3,0,0,1,986,208,154,1090,91,44,104,4,1198,4,7,14,22,Matches
+517,Richairo Živković\Richairo-Zivkovic,nl NED,FWDF,Sheffield Utd,22,1996,0.8,16,15,1,0,0,4,0,1,0,0,0,0,10,3,3,3,13,0,0,0,14,0,1,0,0,Matches
+518,Kurt Zouma\Kurt-Zouma,fr FRA,DF,Chelsea,24,1994,24.0,1842,1814,28,23,0,203,84,0,0,0,0,0,1437,139,266,323,1405,65,5,2,1641,3,29,13,12,Matches
