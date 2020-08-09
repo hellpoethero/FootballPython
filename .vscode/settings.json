@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "c:\\Users\\ducnm\\Anaconda3\\envs\\tf_gpu\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.dataScience.jupyterServerURI": "local"
+}
